@@ -1,0 +1,32 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+
+# (opcional) Dados — comente/descomente conforme sua decisão
+# Se os datasets forem grandes/sensíveis, ignore toda a pasta data:
+# data/
+# Ou ignore apenas partes:
+# data/raw/
+# data/interim/
+# Ignorar todos os dados
+data/
+
+# Exceto se quiser manter arquivos menores, pode liberar pastas específicas
+# !data/exemplo_menor_que_100mb/
