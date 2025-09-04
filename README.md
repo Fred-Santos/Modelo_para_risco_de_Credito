@@ -53,15 +53,15 @@ repo/
 
 ```
 
-### 🚀 Como Rodar Localmente
+## 🚀 Como Rodar Localmente
 
-## Clonar este repositório:
+### Clonar este repositório:
 
 git clone https://github.com/Fred-Santos/Modelo_para_risco_de_Credito.git
 cd Modelo_para_risco_de_Credito
 
 
-## Criar um ambiente virtual e instalar dependências:
+### Criar um ambiente virtual e instalar dependências:
 
 python -m venv .venv
 .venv\Scripts\activate  # Windows
@@ -75,7 +75,7 @@ Iniciar o Jupyter Lab:
 jupyter lab
 
 
-## Executar o notebook principal:
+### Executar o notebook principal:
 
 Abra notebooks/etl_pipeline.ipynb
 
