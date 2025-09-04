@@ -1,0 +1,7 @@
+﻿coluna,tipo,% nulos,qtd_nulos,valores_distintos,exemplo_valores,observacoes
+case_id,bigint,0.0,0,1221522,"[29, 964, 2453]",
+cacccardblochreas_147M,string,0.78,109249,10,"['P19_60_110', 'P41_107_150', 'P33_145_161']",
+conts_type_509L,string,17.01,2394056,10,"['EMPLOYMENT_PHONE', 'WHATSAPP', 'PRIMARY_MOBILE']",
+credacc_cards_status_52L,string,97.57,13733404,7,"['UNCONFIRMED', 'INACTIVE', 'BLOCKED']",
+num_group1,bigint,0.0,0,20,"[19, 0, 7]",
+num_group2,bigint,0.0,0,12,"[0, 7, 6]",

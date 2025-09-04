@@ -1,0 +1,6 @@
+﻿coluna,tipo,% nulos,qtd_nulos,valores_distintos,exemplo_valores,observacoes
+case_id,bigint,0.0,0,1526659,"[26, 29, 474]",
+date_decision,string,0.0,0,644,"['2019-08-08', '2019-08-22', '2019-08-23']",
+MONTH,bigint,0.0,0,22,"[201910, 201905, 202003]",
+WEEK_NUM,bigint,0.0,0,92,"[26, 29, 65]",
+target,bigint,0.0,0,2,"[0, 1]",

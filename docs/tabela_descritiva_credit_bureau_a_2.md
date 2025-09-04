@@ -1,0 +1,21 @@
+| coluna                          | tipo_dado   | Descricao                                                                                                                                       |
+|:--------------------------------|:------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
+| case_id                         | bigint      | NaN                                                                                                                                             |
+| collater_typofvalofguarant_298M | string      | Tipo de avaliação colateral (contrato ativo).                                                                                                   |
+| collater_typofvalofguarant_407M | string      | Tipo de avaliação colateral (contrato fechado).                                                                                                 |
+| collater_valueofguarantee_1124L | double      | Valor da garantia para contrato ativo.                                                                                                          |
+| collater_valueofguarantee_876L  | double      | Valor da garantia para contrato fechado.                                                                                                        |
+| collaterals_typeofguarante_359M | string      | Tipo de garantia usada como garantia para um contrato fechado.                                                                                  |
+| collaterals_typeofguarante_669M | string      | Tipo de garantia para o contrato ativo.                                                                                                         |
+| num_group1                      | bigint      | NaN                                                                                                                                             |
+| num_group2                      | bigint      | NaN                                                                                                                                             |
+| pmts_dpd_1073P                  | double      | Dias devido ao pagamento pelo contrato ativo (NUM_GROUP1 - Contrato existente, NUM_GROUP2 - PAGAMENTO).                                         |
+| pmts_dpd_303P                   | double      | Dias vencidos pelo pagamento pelo contrato rescindido de acordo com o Credit Bureau (NUM_GROUP1 - Contrato rescindido, Num_Group2 - Pagamento). |
+| pmts_month_158T                 | double      | Mês de pagamento por um contrato fechado (NUM_GROUP1 - Contrato existente, NUM_GROUP2 - PAGAMENTO).                                             |
+| pmts_month_706T                 | double      | Mês de pagamento para contrato ativo (NUM_GROUP1 - Contrato rescindido, NUM_GROUP2 - PAGAMENTO).                                                |
+| pmts_overdue_1140A              | double      | Pagamento vencido por um contrato ativo (NUM_GROUP1 - Contrato existente, num_group2 - pagamento).                                              |
+| pmts_overdue_1152A              | double      | Pagamento vencido por um contrato fechado (NUM_GROUP1 - Contrato rescindido, num_group2 - pagamento).                                           |
+| pmts_year_1139T                 | double      | Ano de pagamento por um contrato ativo (num_group1 - contrato existente, num_group2 - pagamento).                                               |
+| pmts_year_507T                  | double      | Ano de pagamento por um contrato de crédito fechado (NUM_GROUP1 - Contrato rescindido, NUM_GROUP2 - PAGAMENTO).                                 |
+| subjectroles_name_541M          | string      | Nome da função de assunto no contrato de crédito fechado (NUM_GROUP1 - Contrato rescindido, NUM_GROUP2 - Funções de sujeitos).                  |
+| subjectroles_name_838M          | string      | Nome da função de assunto no contrato de crédito ativo (NUM_GROUP1 - Contrato existente, NUM_GROUP2 - Funções de sujeitos).                     |
