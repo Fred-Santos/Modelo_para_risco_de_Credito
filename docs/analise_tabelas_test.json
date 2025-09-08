@@ -1,0 +1,5103 @@
+{
+    "test_applprev_1": {
+        "tabela": "test_applprev_1",
+        "total_registros": 30,
+        "total_colunas": 41,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "actualdpd_943P",
+                "double"
+            ],
+            [
+                "annuity_853A",
+                "double"
+            ],
+            [
+                "approvaldate_319D",
+                "string"
+            ],
+            [
+                "byoccupationinc_3656910L",
+                "double"
+            ],
+            [
+                "cancelreason_3545846M",
+                "string"
+            ],
+            [
+                "childnum_21L",
+                "double"
+            ],
+            [
+                "creationdate_885D",
+                "string"
+            ],
+            [
+                "credacc_actualbalance_314A",
+                "double"
+            ],
+            [
+                "credacc_credlmt_575A",
+                "double"
+            ],
+            [
+                "credacc_maxhisbal_375A",
+                "double"
+            ],
+            [
+                "credacc_minhisbal_90A",
+                "double"
+            ],
+            [
+                "credacc_status_367L",
+                "string"
+            ],
+            [
+                "credacc_transactions_402L",
+                "double"
+            ],
+            [
+                "credamount_590A",
+                "double"
+            ],
+            [
+                "credtype_587L",
+                "string"
+            ],
+            [
+                "currdebt_94A",
+                "double"
+            ],
+            [
+                "dateactivated_425D",
+                "string"
+            ],
+            [
+                "district_544M",
+                "string"
+            ],
+            [
+                "downpmt_134A",
+                "double"
+            ],
+            [
+                "dtlastpmt_581D",
+                "string"
+            ],
+            [
+                "dtlastpmtallstes_3545839D",
+                "string"
+            ],
+            [
+                "education_1138M",
+                "string"
+            ],
+            [
+                "employedfrom_700D",
+                "string"
+            ],
+            [
+                "familystate_726L",
+                "string"
+            ],
+            [
+                "firstnonzeroinstldate_307D",
+                "string"
+            ],
+            [
+                "inittransactioncode_279L",
+                "string"
+            ],
+            [
+                "isbidproduct_390L",
+                "boolean"
+            ],
+            [
+                "isdebitcard_527L",
+                "string"
+            ],
+            [
+                "mainoccupationinc_437A",
+                "double"
+            ],
+            [
+                "maxdpdtolerance_577P",
+                "double"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "outstandingdebt_522A",
+                "double"
+            ],
+            [
+                "pmtnum_8L",
+                "double"
+            ],
+            [
+                "postype_4733339M",
+                "string"
+            ],
+            [
+                "profession_152M",
+                "string"
+            ],
+            [
+                "rejectreason_755M",
+                "string"
+            ],
+            [
+                "rejectreasonclient_4145042M",
+                "string"
+            ],
+            [
+                "revolvingaccount_394A",
+                "double"
+            ],
+            [
+                "status_219L",
+                "string"
+            ],
+            [
+                "tenor_203L",
+                "double"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "30",
+                "actualdpd_943P": "30",
+                "annuity_853A": "30",
+                "approvaldate_319D": "19",
+                "byoccupationinc_3656910L": "8",
+                "cancelreason_3545846M": "30",
+                "childnum_21L": "10",
+                "creationdate_885D": "30",
+                "credacc_actualbalance_314A": "5",
+                "credacc_credlmt_575A": "30",
+                "credacc_maxhisbal_375A": "5",
+                "credacc_minhisbal_90A": "5",
+                "credacc_status_367L": "5",
+                "credacc_transactions_402L": "5",
+                "credamount_590A": "30",
+                "credtype_587L": "30",
+                "currdebt_94A": "24",
+                "dateactivated_425D": "16",
+                "district_544M": "30",
+                "downpmt_134A": "30",
+                "dtlastpmt_581D": "12",
+                "dtlastpmtallstes_3545839D": "17",
+                "education_1138M": "30",
+                "employedfrom_700D": "11",
+                "familystate_726L": "18",
+                "firstnonzeroinstldate_307D": "21",
+                "inittransactioncode_279L": "30",
+                "isdebitcard_527L": "9",
+                "mainoccupationinc_437A": "26",
+                "maxdpdtolerance_577P": "24",
+                "num_group1": "30",
+                "outstandingdebt_522A": "24",
+                "pmtnum_8L": "22",
+                "postype_4733339M": "30",
+                "profession_152M": "30",
+                "rejectreason_755M": "30",
+                "rejectreasonclient_4145042M": "30",
+                "revolvingaccount_394A": "5",
+                "status_219L": "30",
+                "tenor_203L": "22"
+            },
+            "mean": {
+                "case_id": "57631.333333333336",
+                "actualdpd_943P": "0.0",
+                "annuity_853A": "2545.126733333333",
+                "approvaldate_319D": null,
+                "byoccupationinc_3656910L": "21000.375",
+                "cancelreason_3545846M": null,
+                "childnum_21L": "1.0",
+                "creationdate_885D": null,
+                "credacc_actualbalance_314A": "30373.2",
+                "credacc_credlmt_575A": "7322.2",
+                "credacc_maxhisbal_375A": "0.0",
+                "credacc_minhisbal_90A": "0.0",
+                "credacc_status_367L": null,
+                "credacc_transactions_402L": "0.0",
+                "credamount_590A": "32453.72666666667",
+                "credtype_587L": null,
+                "currdebt_94A": "933.793",
+                "dateactivated_425D": null,
+                "district_544M": null,
+                "downpmt_134A": "133.33333333333334",
+                "dtlastpmt_581D": null,
+                "dtlastpmtallstes_3545839D": null,
+                "education_1138M": null,
+                "employedfrom_700D": null,
+                "familystate_726L": null,
+                "firstnonzeroinstldate_307D": null,
+                "inittransactioncode_279L": null,
+                "isdebitcard_527L": null,
+                "mainoccupationinc_437A": "34700.0",
+                "maxdpdtolerance_577P": "4.875",
+                "num_group1": "5.066666666666666",
+                "outstandingdebt_522A": "949.6916666666666",
+                "pmtnum_8L": "14.727272727272727",
+                "postype_4733339M": null,
+                "profession_152M": null,
+                "rejectreason_755M": null,
+                "rejectreasonclient_4145042M": null,
+                "revolvingaccount_394A": "8.08836602E8",
+                "status_219L": null,
+                "tenor_203L": "14.727272727272727"
+            },
+            "stddev": {
+                "case_id": "132.3066796169579",
+                "actualdpd_943P": "0.0",
+                "annuity_853A": "2858.519886631717",
+                "approvaldate_319D": null,
+                "byoccupationinc_3656910L": "21533.60828988358",
+                "cancelreason_3545846M": null,
+                "childnum_21L": "0.816496580927726",
+                "creationdate_885D": null,
+                "credacc_actualbalance_314A": "41426.670047205094",
+                "credacc_credlmt_575A": "19901.251018379517",
+                "credacc_maxhisbal_375A": "0.0",
+                "credacc_minhisbal_90A": "0.0",
+                "credacc_status_367L": null,
+                "credacc_transactions_402L": "0.0",
+                "credamount_590A": "42856.32840242507",
+                "credtype_587L": null,
+                "currdebt_94A": "3176.0015506173518",
+                "dateactivated_425D": null,
+                "district_544M": null,
+                "downpmt_134A": "730.2967433402214",
+                "dtlastpmt_581D": null,
+                "dtlastpmtallstes_3545839D": null,
+                "education_1138M": null,
+                "employedfrom_700D": null,
+                "familystate_726L": null,
+                "firstnonzeroinstldate_307D": null,
+                "inittransactioncode_279L": null,
+                "isdebitcard_527L": null,
+                "mainoccupationinc_437A": "21570.516915456617",
+                "maxdpdtolerance_577P": "13.788188076566936",
+                "num_group1": "3.5128663346414806",
+                "outstandingdebt_522A": "3225.2724611454437",
+                "pmtnum_8L": "10.863577496263192",
+                "postype_4733339M": null,
+                "profession_152M": null,
+                "rejectreason_755M": null,
+                "rejectreasonclient_4145042M": null,
+                "revolvingaccount_394A": "3.7984264778524026E7",
+                "status_219L": null,
+                "tenor_203L": "10.863577496263192"
+            },
+            "min": {
+                "case_id": "57543",
+                "actualdpd_943P": "0.0",
+                "annuity_853A": "0.0",
+                "approvaldate_319D": "2011-12-24",
+                "byoccupationinc_3656910L": "1.0",
+                "cancelreason_3545846M": "P94_109_143",
+                "childnum_21L": "0.0",
+                "creationdate_885D": "2011-12-24",
+                "credacc_actualbalance_314A": "0.0",
+                "credacc_credlmt_575A": "0.0",
+                "credacc_maxhisbal_375A": "0.0",
+                "credacc_minhisbal_90A": "0.0",
+                "credacc_status_367L": "AC",
+                "credacc_transactions_402L": "0.0",
+                "credamount_590A": "0.0",
+                "credtype_587L": "CAL",
+                "currdebt_94A": "0.0",
+                "dateactivated_425D": "2011-12-29",
+                "district_544M": "P107_155_111",
+                "downpmt_134A": "0.0",
+                "dtlastpmt_581D": "2016-04-13",
+                "dtlastpmtallstes_3545839D": "2016-04-13",
+                "education_1138M": "P106_81_188",
+                "employedfrom_700D": "1977-05-12",
+                "familystate_726L": "DIVORCED",
+                "firstnonzeroinstldate_307D": "2012-01-24",
+                "inittransactioncode_279L": "CASH",
+                "isdebitcard_527L": "false",
+                "mainoccupationinc_437A": "10000.0",
+                "maxdpdtolerance_577P": "0.0",
+                "num_group1": "0",
+                "outstandingdebt_522A": "0.0",
+                "pmtnum_8L": "3.0",
+                "postype_4733339M": "P149_40_170",
+                "profession_152M": "a55475b1",
+                "rejectreason_755M": "P94_109_143",
+                "rejectreasonclient_4145042M": "P94_109_143",
+                "revolvingaccount_394A": "7.4259565E8",
+                "status_219L": "A",
+                "tenor_203L": "3.0"
+            },
+            "max": {
+                "case_id": "57970",
+                "actualdpd_943P": "0.0",
+                "annuity_853A": "14092.601",
+                "approvaldate_319D": "2021-10-12",
+                "byoccupationinc_3656910L": "50000.0",
+                "cancelreason_3545846M": "f2052b23",
+                "childnum_21L": "2.0",
+                "creationdate_885D": "2021-10-12",
+                "credacc_actualbalance_314A": "100000.0",
+                "credacc_credlmt_575A": "100000.0",
+                "credacc_maxhisbal_375A": "0.0",
+                "credacc_minhisbal_90A": "0.0",
+                "credacc_status_367L": "CL",
+                "credacc_transactions_402L": "0.0",
+                "credamount_590A": "200000.0",
+                "credtype_587L": "REL",
+                "currdebt_94A": "12154.4",
+                "dateactivated_425D": "2021-04-26",
+                "district_544M": "a55475b1",
+                "downpmt_134A": "4000.0",
+                "dtlastpmt_581D": "2021-10-13",
+                "dtlastpmtallstes_3545839D": "2022-01-13",
+                "education_1138M": "a55475b1",
+                "employedfrom_700D": "2011-07-01",
+                "familystate_726L": "SINGLE",
+                "firstnonzeroinstldate_307D": "2021-11-09",
+                "inittransactioncode_279L": "POS",
+                "isdebitcard_527L": "true",
+                "mainoccupationinc_437A": "112000.0",
+                "maxdpdtolerance_577P": "50.0",
+                "num_group1": "13",
+                "outstandingdebt_522A": "12154.4",
+                "pmtnum_8L": "39.0",
+                "postype_4733339M": "P67_102_161",
+                "profession_152M": "a55475b1",
+                "rejectreason_755M": "a55475b1",
+                "rejectreasonclient_4145042M": "a55475b1",
+                "revolvingaccount_394A": "8.400498E8",
+                "status_219L": "T",
+                "tenor_203L": "39.0"
+            }
+        },
+        "colunas_com_nulos": {
+            "approvaldate_319D": 36.67,
+            "byoccupationinc_3656910L": 73.33,
+            "childnum_21L": 66.67,
+            "credacc_actualbalance_314A": 83.33,
+            "credacc_maxhisbal_375A": 83.33,
+            "credacc_minhisbal_90A": 83.33,
+            "credacc_status_367L": 83.33,
+            "credacc_transactions_402L": 83.33,
+            "currdebt_94A": 20.0,
+            "dateactivated_425D": 46.67,
+            "dtlastpmt_581D": 60.0,
+            "dtlastpmtallstes_3545839D": 43.33,
+            "employedfrom_700D": 63.33,
+            "familystate_726L": 40.0,
+            "firstnonzeroinstldate_307D": 30.0,
+            "isdebitcard_527L": 70.0,
+            "mainoccupationinc_437A": 13.33,
+            "maxdpdtolerance_577P": 20.0,
+            "outstandingdebt_522A": 20.0,
+            "pmtnum_8L": 26.67,
+            "revolvingaccount_394A": 83.33,
+            "tenor_203L": 26.67
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_applprev_2": {
+        "tabela": "test_applprev_2",
+        "total_registros": 10,
+        "total_colunas": 6,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "cacccardblochreas_147M",
+                "string"
+            ],
+            [
+                "conts_type_509L",
+                "string"
+            ],
+            [
+                "credacc_cards_status_52L",
+                "int"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "num_group2",
+                "bigint"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "cacccardblochreas_147M": "10",
+                "conts_type_509L": "6",
+                "credacc_cards_status_52L": "0",
+                "num_group1": "10",
+                "num_group2": "10"
+            },
+            "mean": {
+                "case_id": "57543.0",
+                "cacccardblochreas_147M": null,
+                "conts_type_509L": null,
+                "credacc_cards_status_52L": null,
+                "num_group1": "2.0",
+                "num_group2": "0.5"
+            },
+            "stddev": {
+                "case_id": "0.0",
+                "cacccardblochreas_147M": null,
+                "conts_type_509L": null,
+                "credacc_cards_status_52L": null,
+                "num_group1": "1.4907119849998598",
+                "num_group2": "0.5270462766947299"
+            },
+            "min": {
+                "case_id": "57543",
+                "cacccardblochreas_147M": "a55475b1",
+                "conts_type_509L": "PHONE",
+                "credacc_cards_status_52L": null,
+                "num_group1": "0",
+                "num_group2": "0"
+            },
+            "max": {
+                "case_id": "57543",
+                "cacccardblochreas_147M": "a55475b1",
+                "conts_type_509L": "PRIMARY_MOBILE",
+                "credacc_cards_status_52L": null,
+                "num_group1": "4",
+                "num_group2": "1"
+            }
+        },
+        "colunas_com_nulos": {
+            "conts_type_509L": 40.0,
+            "credacc_cards_status_52L": 100.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_credit_bureau_a_1": {
+        "tabela": "test_credit_bureau_a_1",
+        "total_registros": 50,
+        "total_colunas": 79,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "annualeffectiverate_199L",
+                "double"
+            ],
+            [
+                "annualeffectiverate_63L",
+                "double"
+            ],
+            [
+                "classificationofcontr_13M",
+                "string"
+            ],
+            [
+                "classificationofcontr_400M",
+                "string"
+            ],
+            [
+                "contractst_545M",
+                "string"
+            ],
+            [
+                "contractst_964M",
+                "string"
+            ],
+            [
+                "contractsum_5085717L",
+                "double"
+            ],
+            [
+                "credlmt_230A",
+                "double"
+            ],
+            [
+                "credlmt_935A",
+                "double"
+            ],
+            [
+                "dateofcredend_289D",
+                "string"
+            ],
+            [
+                "dateofcredend_353D",
+                "string"
+            ],
+            [
+                "dateofcredstart_181D",
+                "string"
+            ],
+            [
+                "dateofcredstart_739D",
+                "string"
+            ],
+            [
+                "dateofrealrepmt_138D",
+                "string"
+            ],
+            [
+                "debtoutstand_525A",
+                "double"
+            ],
+            [
+                "debtoverdue_47A",
+                "double"
+            ],
+            [
+                "description_351M",
+                "string"
+            ],
+            [
+                "dpdmax_139P",
+                "double"
+            ],
+            [
+                "dpdmax_757P",
+                "double"
+            ],
+            [
+                "dpdmaxdatemonth_442T",
+                "double"
+            ],
+            [
+                "dpdmaxdatemonth_89T",
+                "double"
+            ],
+            [
+                "dpdmaxdateyear_596T",
+                "double"
+            ],
+            [
+                "dpdmaxdateyear_896T",
+                "double"
+            ],
+            [
+                "financialinstitution_382M",
+                "string"
+            ],
+            [
+                "financialinstitution_591M",
+                "string"
+            ],
+            [
+                "instlamount_768A",
+                "double"
+            ],
+            [
+                "instlamount_852A",
+                "double"
+            ],
+            [
+                "interestrate_508L",
+                "double"
+            ],
+            [
+                "lastupdate_1112D",
+                "string"
+            ],
+            [
+                "lastupdate_388D",
+                "string"
+            ],
+            [
+                "monthlyinstlamount_332A",
+                "double"
+            ],
+            [
+                "monthlyinstlamount_674A",
+                "double"
+            ],
+            [
+                "nominalrate_281L",
+                "double"
+            ],
+            [
+                "nominalrate_498L",
+                "double"
+            ],
+            [
+                "num_group1",
+                "double"
+            ],
+            [
+                "numberofcontrsvalue_258L",
+                "double"
+            ],
+            [
+                "numberofcontrsvalue_358L",
+                "double"
+            ],
+            [
+                "numberofinstls_229L",
+                "double"
+            ],
+            [
+                "numberofinstls_320L",
+                "double"
+            ],
+            [
+                "numberofoutstandinstls_520L",
+                "double"
+            ],
+            [
+                "numberofoutstandinstls_59L",
+                "double"
+            ],
+            [
+                "numberofoverdueinstlmax_1039L",
+                "double"
+            ],
+            [
+                "numberofoverdueinstlmax_1151L",
+                "double"
+            ],
+            [
+                "numberofoverdueinstlmaxdat_148D",
+                "string"
+            ],
+            [
+                "numberofoverdueinstlmaxdat_641D",
+                "string"
+            ],
+            [
+                "numberofoverdueinstls_725L",
+                "double"
+            ],
+            [
+                "numberofoverdueinstls_834L",
+                "double"
+            ],
+            [
+                "outstandingamount_354A",
+                "double"
+            ],
+            [
+                "outstandingamount_362A",
+                "double"
+            ],
+            [
+                "overdueamount_31A",
+                "double"
+            ],
+            [
+                "overdueamount_659A",
+                "double"
+            ],
+            [
+                "overdueamountmax2_14A",
+                "double"
+            ],
+            [
+                "overdueamountmax2_398A",
+                "double"
+            ],
+            [
+                "overdueamountmax2date_1002D",
+                "string"
+            ],
+            [
+                "overdueamountmax2date_1142D",
+                "string"
+            ],
+            [
+                "overdueamountmax_155A",
+                "double"
+            ],
+            [
+                "overdueamountmax_35A",
+                "double"
+            ],
+            [
+                "overdueamountmaxdatemonth_284T",
+                "double"
+            ],
+            [
+                "overdueamountmaxdatemonth_365T",
+                "double"
+            ],
+            [
+                "overdueamountmaxdateyear_2T",
+                "double"
+            ],
+            [
+                "overdueamountmaxdateyear_994T",
+                "double"
+            ],
+            [
+                "periodicityofpmts_1102L",
+                "double"
+            ],
+            [
+                "periodicityofpmts_837L",
+                "double"
+            ],
+            [
+                "prolongationcount_1120L",
+                "double"
+            ],
+            [
+                "prolongationcount_599L",
+                "double"
+            ],
+            [
+                "purposeofcred_426M",
+                "string"
+            ],
+            [
+                "purposeofcred_874M",
+                "string"
+            ],
+            [
+                "refreshdate_3813885D",
+                "string"
+            ],
+            [
+                "residualamount_488A",
+                "double"
+            ],
+            [
+                "residualamount_856A",
+                "double"
+            ],
+            [
+                "subjectrole_182M",
+                "string"
+            ],
+            [
+                "subjectrole_93M",
+                "string"
+            ],
+            [
+                "totalamount_6A",
+                "double"
+            ],
+            [
+                "totalamount_996A",
+                "double"
+            ],
+            [
+                "totaldebtoverduevalue_178A",
+                "double"
+            ],
+            [
+                "totaldebtoverduevalue_718A",
+                "double"
+            ],
+            [
+                "totaloutstanddebtvalue_39A",
+                "double"
+            ],
+            [
+                "totaloutstanddebtvalue_668A",
+                "double"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "50",
+                "annualeffectiverate_199L": "13",
+                "annualeffectiverate_63L": "10",
+                "classificationofcontr_13M": "50",
+                "classificationofcontr_400M": "50",
+                "contractst_545M": "50",
+                "contractst_964M": "50",
+                "contractsum_5085717L": "11",
+                "credlmt_230A": "6",
+                "credlmt_935A": "8",
+                "dateofcredend_289D": "15",
+                "dateofcredend_353D": "44",
+                "dateofcredstart_181D": "44",
+                "dateofcredstart_739D": "15",
+                "dateofrealrepmt_138D": "44",
+                "debtoutstand_525A": "5",
+                "debtoverdue_47A": "5",
+                "description_351M": "50",
+                "dpdmax_139P": "14",
+                "dpdmax_757P": "43",
+                "dpdmaxdatemonth_442T": "43",
+                "dpdmaxdatemonth_89T": "14",
+                "dpdmaxdateyear_596T": "14",
+                "dpdmaxdateyear_896T": "43",
+                "financialinstitution_382M": "50",
+                "financialinstitution_591M": "50",
+                "instlamount_768A": "7",
+                "instlamount_852A": "6",
+                "interestrate_508L": "0",
+                "lastupdate_1112D": "15",
+                "lastupdate_388D": "44",
+                "monthlyinstlamount_332A": "14",
+                "monthlyinstlamount_674A": "43",
+                "nominalrate_281L": "11",
+                "nominalrate_498L": "16",
+                "num_group1": "50",
+                "numberofcontrsvalue_258L": "5",
+                "numberofcontrsvalue_358L": "5",
+                "numberofinstls_229L": "38",
+                "numberofinstls_320L": "7",
+                "numberofoutstandinstls_520L": "38",
+                "numberofoutstandinstls_59L": "7",
+                "numberofoverdueinstlmax_1039L": "15",
+                "numberofoverdueinstlmax_1151L": "44",
+                "numberofoverdueinstlmaxdat_148D": "14",
+                "numberofoverdueinstlmaxdat_641D": "1",
+                "numberofoverdueinstls_725L": "14",
+                "numberofoverdueinstls_834L": "44",
+                "outstandingamount_354A": "38",
+                "outstandingamount_362A": "7",
+                "overdueamount_31A": "44",
+                "overdueamount_659A": "14",
+                "overdueamountmax2_14A": "15",
+                "overdueamountmax2_398A": "44",
+                "overdueamountmax2date_1002D": "13",
+                "overdueamountmax2date_1142D": "1",
+                "overdueamountmax_155A": "15",
+                "overdueamountmax_35A": "43",
+                "overdueamountmaxdatemonth_284T": "43",
+                "overdueamountmaxdatemonth_365T": "15",
+                "overdueamountmaxdateyear_2T": "15",
+                "overdueamountmaxdateyear_994T": "43",
+                "periodicityofpmts_1102L": "31",
+                "periodicityofpmts_837L": "7",
+                "prolongationcount_1120L": "5",
+                "prolongationcount_599L": "0",
+                "purposeofcred_426M": "50",
+                "purposeofcred_874M": "50",
+                "refreshdate_3813885D": "36",
+                "residualamount_488A": "6",
+                "residualamount_856A": "7",
+                "subjectrole_182M": "50",
+                "subjectrole_93M": "50",
+                "totalamount_6A": "38",
+                "totalamount_996A": "7",
+                "totaldebtoverduevalue_178A": "5",
+                "totaldebtoverduevalue_718A": "5",
+                "totaloutstanddebtvalue_39A": "5",
+                "totaloutstanddebtvalue_668A": "5"
+            },
+            "mean": {
+                "case_id": "57607.2",
+                "annualeffectiverate_199L": "79.52615384615385",
+                "annualeffectiverate_63L": "44.174",
+                "classificationofcontr_13M": null,
+                "classificationofcontr_400M": null,
+                "contractst_545M": null,
+                "contractst_964M": null,
+                "contractsum_5085717L": "1130470.44",
+                "credlmt_230A": "29633.333333333332",
+                "credlmt_935A": "369494.95125",
+                "dateofcredend_289D": null,
+                "dateofcredend_353D": null,
+                "dateofcredstart_181D": null,
+                "dateofcredstart_739D": null,
+                "dateofrealrepmt_138D": null,
+                "debtoutstand_525A": "758390.228",
+                "debtoverdue_47A": "0.0",
+                "description_351M": null,
+                "dpdmax_139P": "0.0",
+                "dpdmax_757P": "13.30232558139535",
+                "dpdmaxdatemonth_442T": "7.1395348837209305",
+                "dpdmaxdatemonth_89T": "4.785714285714286",
+                "dpdmaxdateyear_596T": "2020.9285714285713",
+                "dpdmaxdateyear_896T": "2018.046511627907",
+                "financialinstitution_382M": null,
+                "financialinstitution_591M": null,
+                "instlamount_768A": "12313.704285714284",
+                "instlamount_852A": "161.13499166666665",
+                "interestrate_508L": null,
+                "lastupdate_1112D": null,
+                "lastupdate_388D": null,
+                "monthlyinstlamount_332A": "20760.38086428572",
+                "monthlyinstlamount_674A": "12179.402843023256",
+                "nominalrate_281L": "20.924545454545452",
+                "nominalrate_498L": "73.0975",
+                "num_group1": "5.84",
+                "numberofcontrsvalue_258L": "2.8",
+                "numberofcontrsvalue_358L": "11.4",
+                "numberofinstls_229L": "9.368421052631579",
+                "numberofinstls_320L": "26.571428571428573",
+                "numberofoutstandinstls_520L": "0.0",
+                "numberofoutstandinstls_59L": "25.571428571428573",
+                "numberofoverdueinstlmax_1039L": "0.06666666666666667",
+                "numberofoverdueinstlmax_1151L": "15.318181818181818",
+                "numberofoverdueinstlmaxdat_148D": null,
+                "numberofoverdueinstlmaxdat_641D": null,
+                "numberofoverdueinstls_725L": "0.0",
+                "numberofoverdueinstls_834L": "0.0",
+                "outstandingamount_354A": "0.0",
+                "outstandingamount_362A": "344123.1422857143",
+                "overdueamount_31A": "0.0",
+                "overdueamount_659A": "0.0",
+                "overdueamountmax2_14A": "63.37453333333334",
+                "overdueamountmax2_398A": "4106.123187727272",
+                "overdueamountmax2date_1002D": null,
+                "overdueamountmax2date_1142D": null,
+                "overdueamountmax_155A": "0.0",
+                "overdueamountmax_35A": "4103.585822325582",
+                "overdueamountmaxdatemonth_284T": "6.627906976744186",
+                "overdueamountmaxdatemonth_365T": "4.6",
+                "overdueamountmaxdateyear_2T": "2020.9333333333334",
+                "overdueamountmaxdateyear_994T": "2018.046511627907",
+                "periodicityofpmts_1102L": "30.0",
+                "periodicityofpmts_837L": "30.0",
+                "prolongationcount_1120L": "0.0",
+                "prolongationcount_599L": null,
+                "purposeofcred_426M": null,
+                "purposeofcred_874M": null,
+                "refreshdate_3813885D": null,
+                "residualamount_488A": "0.0",
+                "residualamount_856A": "197584.16",
+                "subjectrole_182M": null,
+                "subjectrole_93M": null,
+                "totalamount_6A": "140377.7852631579",
+                "totalamount_996A": "391059.8864285714",
+                "totaldebtoverduevalue_178A": "0.0",
+                "totaldebtoverduevalue_718A": "0.0",
+                "totaloutstanddebtvalue_39A": "758390.228",
+                "totaloutstanddebtvalue_668A": "0.0"
+            },
+            "stddev": {
+                "case_id": "84.12915241290777",
+                "annualeffectiverate_199L": "173.97409436170193",
+                "annualeffectiverate_63L": "12.096219060332677",
+                "classificationofcontr_13M": null,
+                "classificationofcontr_400M": null,
+                "contractst_545M": null,
+                "contractst_964M": null,
+                "contractsum_5085717L": "1472637.75553445",
+                "credlmt_230A": "41588.54008818616",
+                "credlmt_935A": "408843.13924794",
+                "dateofcredend_289D": null,
+                "dateofcredend_353D": null,
+                "dateofcredstart_181D": null,
+                "dateofcredstart_739D": null,
+                "dateofrealrepmt_138D": null,
+                "debtoutstand_525A": "1036835.6833923635",
+                "debtoverdue_47A": "0.0",
+                "description_351M": null,
+                "dpdmax_139P": "0.0",
+                "dpdmax_757P": "47.67525807542251",
+                "dpdmaxdatemonth_442T": "3.9132339284172697",
+                "dpdmaxdatemonth_89T": "3.3781781942472944",
+                "dpdmaxdateyear_596T": "1.0716117059605184",
+                "dpdmaxdateyear_896T": "3.638114951272257",
+                "financialinstitution_382M": null,
+                "financialinstitution_591M": null,
+                "instlamount_768A": "4268.824001132269",
+                "instlamount_852A": "348.1032548433014",
+                "interestrate_508L": null,
+                "lastupdate_1112D": null,
+                "lastupdate_388D": null,
+                "monthlyinstlamount_332A": "21944.346517676913",
+                "monthlyinstlamount_674A": "19173.415030593707",
+                "nominalrate_281L": "11.492155901863118",
+                "nominalrate_498L": "155.80835422616678",
+                "num_group1": "4.296937685071516",
+                "numberofcontrsvalue_258L": "1.9235384061671346",
+                "numberofcontrsvalue_358L": "4.722287581247038",
+                "numberofinstls_229L": "13.74167276617071",
+                "numberofinstls_320L": "28.976180694133028",
+                "numberofoutstandinstls_520L": "0.0",
+                "numberofoutstandinstls_59L": "29.66960927086358",
+                "numberofoverdueinstlmax_1039L": "0.2581988897471611",
+                "numberofoverdueinstlmax_1151L": "52.449653701063866",
+                "numberofoverdueinstlmaxdat_148D": null,
+                "numberofoverdueinstlmaxdat_641D": null,
+                "numberofoverdueinstls_725L": "0.0",
+                "numberofoverdueinstls_834L": "0.0",
+                "outstandingamount_354A": "0.0",
+                "outstandingamount_362A": "456388.15712722525",
+                "overdueamount_31A": "0.0",
+                "overdueamount_659A": "0.0",
+                "overdueamountmax2_14A": "245.4485121736668",
+                "overdueamountmax2_398A": "10866.72832707597",
+                "overdueamountmax2date_1002D": null,
+                "overdueamountmax2date_1142D": null,
+                "overdueamountmax_155A": "0.0",
+                "overdueamountmax_35A": "10945.957322712873",
+                "overdueamountmaxdatemonth_284T": "3.9702660089239403",
+                "overdueamountmaxdatemonth_365T": "3.3338094898007764",
+                "overdueamountmaxdateyear_2T": "1.0327955589886055",
+                "overdueamountmaxdateyear_994T": "3.73499211685334",
+                "periodicityofpmts_1102L": "0.0",
+                "periodicityofpmts_837L": "0.0",
+                "prolongationcount_1120L": "0.0",
+                "prolongationcount_599L": null,
+                "purposeofcred_426M": null,
+                "purposeofcred_874M": null,
+                "refreshdate_3813885D": null,
+                "residualamount_488A": "0.0",
+                "residualamount_856A": "191433.6751944522",
+                "subjectrole_182M": null,
+                "subjectrole_93M": null,
+                "totalamount_6A": "184724.4303741248",
+                "totalamount_996A": "461373.05837636377",
+                "totaldebtoverduevalue_178A": "0.0",
+                "totaldebtoverduevalue_718A": "0.0",
+                "totaloutstanddebtvalue_39A": "1036835.6833923635",
+                "totaloutstanddebtvalue_668A": "0.0"
+            },
+            "min": {
+                "case_id": "57543",
+                "annualeffectiverate_199L": "0.69",
+                "annualeffectiverate_63L": "24.37",
+                "classificationofcontr_13M": "a55475b1",
+                "classificationofcontr_400M": "00135d9c",
+                "contractst_545M": "7241344e",
+                "contractst_964M": "690c65e6",
+                "contractsum_5085717L": "51777.73",
+                "credlmt_230A": "0.0",
+                "credlmt_935A": "20000.0",
+                "dateofcredend_289D": "2021-06-24",
+                "dateofcredend_353D": "2007-11-10",
+                "dateofcredstart_181D": "2007-03-21",
+                "dateofcredstart_739D": "2016-09-08",
+                "dateofrealrepmt_138D": "2007-11-09",
+                "debtoutstand_525A": "30272.8",
+                "debtoverdue_47A": "0.0",
+                "description_351M": "a55475b1",
+                "dpdmax_139P": "0.0",
+                "dpdmax_757P": "0.0",
+                "dpdmaxdatemonth_442T": "1.0",
+                "dpdmaxdatemonth_89T": "1.0",
+                "dpdmaxdateyear_596T": "2019.0",
+                "dpdmaxdateyear_896T": "2007.0",
+                "financialinstitution_382M": "230bbe1d",
+                "financialinstitution_591M": "Home Credit",
+                "instlamount_768A": "4725.4",
+                "instlamount_852A": "0.0",
+                "interestrate_508L": null,
+                "lastupdate_1112D": "2020-11-24",
+                "lastupdate_388D": "2007-12-07",
+                "monthlyinstlamount_332A": "1218.2001",
+                "monthlyinstlamount_674A": "0.0",
+                "nominalrate_281L": "0.0",
+                "nominalrate_498L": "29.88",
+                "num_group1": "0.0",
+                "numberofcontrsvalue_258L": "1.0",
+                "numberofcontrsvalue_358L": "5.0",
+                "numberofinstls_229L": "0.0",
+                "numberofinstls_320L": "6.0",
+                "numberofoutstandinstls_520L": "0.0",
+                "numberofoutstandinstls_59L": "3.0",
+                "numberofoverdueinstlmax_1039L": "0.0",
+                "numberofoverdueinstlmax_1151L": "0.0",
+                "numberofoverdueinstlmaxdat_148D": "2008-10-12",
+                "numberofoverdueinstlmaxdat_641D": "2017-09-09",
+                "numberofoverdueinstls_725L": "0.0",
+                "numberofoverdueinstls_834L": "0.0",
+                "outstandingamount_354A": "0.0",
+                "outstandingamount_362A": "10355.546",
+                "overdueamount_31A": "0.0",
+                "overdueamount_659A": "0.0",
+                "overdueamountmax2_14A": "0.0",
+                "overdueamountmax2_398A": "0.0",
+                "overdueamountmax2date_1002D": "2015-11-23",
+                "overdueamountmax2date_1142D": "2017-09-09",
+                "overdueamountmax_155A": "0.0",
+                "overdueamountmax_35A": "0.0",
+                "overdueamountmaxdatemonth_284T": "1.0",
+                "overdueamountmaxdatemonth_365T": "1.0",
+                "overdueamountmaxdateyear_2T": "2019.0",
+                "overdueamountmaxdateyear_994T": "2007.0",
+                "periodicityofpmts_1102L": "30.0",
+                "periodicityofpmts_837L": "30.0",
+                "prolongationcount_1120L": "0.0",
+                "prolongationcount_599L": null,
+                "purposeofcred_426M": "5d1b0cdd",
+                "purposeofcred_874M": "5065c2b8",
+                "refreshdate_3813885D": "2018-12-20",
+                "residualamount_488A": "0.0",
+                "residualamount_856A": "16873.0",
+                "subjectrole_182M": "a55475b1",
+                "subjectrole_93M": "a55475b1",
+                "totalamount_6A": "4200.0",
+                "totalamount_996A": "17054.4",
+                "totaldebtoverduevalue_178A": "0.0",
+                "totaldebtoverduevalue_718A": "0.0",
+                "totaloutstanddebtvalue_39A": "30272.8",
+                "totaloutstanddebtvalue_668A": "0.0"
+            },
+            "max": {
+                "case_id": "57760",
+                "annualeffectiverate_199L": "657.0",
+                "annualeffectiverate_63L": "56.0",
+                "classificationofcontr_13M": "ea6782cc",
+                "classificationofcontr_400M": "ea6782cc",
+                "contractst_545M": "a55475b1",
+                "contractst_964M": "a55475b1",
+                "contractsum_5085717L": "4800829.07",
+                "credlmt_230A": "100000.0",
+                "credlmt_935A": "1280000.0",
+                "dateofcredend_289D": "2041-01-15",
+                "dateofcredend_353D": "2024-08-10",
+                "dateofcredstart_181D": "2021-12-29",
+                "dateofcredstart_739D": "2022-01-13",
+                "dateofrealrepmt_138D": "2021-12-29",
+                "debtoutstand_525A": "2579517.8",
+                "debtoverdue_47A": "0.0",
+                "description_351M": "a55475b1",
+                "dpdmax_139P": "0.0",
+                "dpdmax_757P": "281.0",
+                "dpdmaxdatemonth_442T": "12.0",
+                "dpdmaxdatemonth_89T": "11.0",
+                "dpdmaxdateyear_596T": "2022.0",
+                "dpdmaxdateyear_896T": "2022.0",
+                "financialinstitution_382M": "e9bfdb5c",
+                "financialinstitution_591M": "b619fa46",
+                "instlamount_768A": "17791.4",
+                "instlamount_852A": "867.00995",
+                "interestrate_508L": null,
+                "lastupdate_1112D": "2022-02-02",
+                "lastupdate_388D": "2021-12-30",
+                "monthlyinstlamount_332A": "70888.4",
+                "monthlyinstlamount_674A": "63224.8",
+                "nominalrate_281L": "33.0",
+                "nominalrate_498L": "657.0",
+                "num_group1": "15.0",
+                "numberofcontrsvalue_258L": "6.0",
+                "numberofcontrsvalue_358L": "16.0",
+                "numberofinstls_229L": "60.0",
+                "numberofinstls_320L": "84.0",
+                "numberofoutstandinstls_520L": "0.0",
+                "numberofoutstandinstls_59L": "84.0",
+                "numberofoverdueinstlmax_1039L": "1.0",
+                "numberofoverdueinstlmax_1151L": "313.0",
+                "numberofoverdueinstlmaxdat_148D": "2020-04-13",
+                "numberofoverdueinstlmaxdat_641D": "2017-09-09",
+                "numberofoverdueinstls_725L": "0.0",
+                "numberofoverdueinstls_834L": "0.0",
+                "outstandingamount_354A": "0.0",
+                "outstandingamount_362A": "1304916.1",
+                "overdueamount_31A": "0.0",
+                "overdueamount_659A": "0.0",
+                "overdueamountmax2_14A": "950.618",
+                "overdueamountmax2_398A": "48690.402",
+                "overdueamountmax2date_1002D": "2020-04-13",
+                "overdueamountmax2date_1142D": "2017-09-09",
+                "overdueamountmax_155A": "0.0",
+                "overdueamountmax_35A": "48690.402",
+                "overdueamountmaxdatemonth_284T": "12.0",
+                "overdueamountmaxdatemonth_365T": "11.0",
+                "overdueamountmaxdateyear_2T": "2022.0",
+                "overdueamountmaxdateyear_994T": "2022.0",
+                "periodicityofpmts_1102L": "30.0",
+                "periodicityofpmts_837L": "30.0",
+                "prolongationcount_1120L": "0.0",
+                "prolongationcount_599L": null,
+                "purposeofcred_426M": "a55475b1",
+                "purposeofcred_874M": "a55475b1",
+                "refreshdate_3813885D": "2022-02-08",
+                "residualamount_488A": "0.0",
+                "residualamount_856A": "567447.7",
+                "subjectrole_182M": "ab3c25cf",
+                "subjectrole_93M": "ab3c25cf",
+                "totalamount_6A": "580000.0",
+                "totalamount_996A": "1301400.0",
+                "totaldebtoverduevalue_178A": "0.0",
+                "totaldebtoverduevalue_718A": "0.0",
+                "totaloutstanddebtvalue_39A": "2579517.8",
+                "totaloutstanddebtvalue_668A": "0.0"
+            }
+        },
+        "colunas_com_nulos": {
+            "annualeffectiverate_199L": 74.0,
+            "annualeffectiverate_63L": 80.0,
+            "contractsum_5085717L": 78.0,
+            "credlmt_230A": 88.0,
+            "credlmt_935A": 84.0,
+            "dateofcredend_289D": 70.0,
+            "dateofcredend_353D": 12.0,
+            "dateofcredstart_181D": 12.0,
+            "dateofcredstart_739D": 70.0,
+            "dateofrealrepmt_138D": 12.0,
+            "debtoutstand_525A": 90.0,
+            "debtoverdue_47A": 90.0,
+            "dpdmax_139P": 72.0,
+            "dpdmax_757P": 14.0,
+            "dpdmaxdatemonth_442T": 14.0,
+            "dpdmaxdatemonth_89T": 72.0,
+            "dpdmaxdateyear_596T": 72.0,
+            "dpdmaxdateyear_896T": 14.0,
+            "instlamount_768A": 86.0,
+            "instlamount_852A": 88.0,
+            "interestrate_508L": 100.0,
+            "lastupdate_1112D": 70.0,
+            "lastupdate_388D": 12.0,
+            "monthlyinstlamount_332A": 72.0,
+            "monthlyinstlamount_674A": 14.0,
+            "nominalrate_281L": 78.0,
+            "nominalrate_498L": 68.0,
+            "numberofcontrsvalue_258L": 90.0,
+            "numberofcontrsvalue_358L": 90.0,
+            "numberofinstls_229L": 24.0,
+            "numberofinstls_320L": 86.0,
+            "numberofoutstandinstls_520L": 24.0,
+            "numberofoutstandinstls_59L": 86.0,
+            "numberofoverdueinstlmax_1039L": 70.0,
+            "numberofoverdueinstlmax_1151L": 12.0,
+            "numberofoverdueinstlmaxdat_148D": 72.0,
+            "numberofoverdueinstlmaxdat_641D": 98.0,
+            "numberofoverdueinstls_725L": 72.0,
+            "numberofoverdueinstls_834L": 12.0,
+            "outstandingamount_354A": 24.0,
+            "outstandingamount_362A": 86.0,
+            "overdueamount_31A": 12.0,
+            "overdueamount_659A": 72.0,
+            "overdueamountmax2_14A": 70.0,
+            "overdueamountmax2_398A": 12.0,
+            "overdueamountmax2date_1002D": 74.0,
+            "overdueamountmax2date_1142D": 98.0,
+            "overdueamountmax_155A": 70.0,
+            "overdueamountmax_35A": 14.0,
+            "overdueamountmaxdatemonth_284T": 14.0,
+            "overdueamountmaxdatemonth_365T": 70.0,
+            "overdueamountmaxdateyear_2T": 70.0,
+            "overdueamountmaxdateyear_994T": 14.0,
+            "periodicityofpmts_1102L": 38.0,
+            "periodicityofpmts_837L": 86.0,
+            "prolongationcount_1120L": 90.0,
+            "prolongationcount_599L": 100.0,
+            "refreshdate_3813885D": 28.0,
+            "residualamount_488A": 88.0,
+            "residualamount_856A": 86.0,
+            "totalamount_6A": 24.0,
+            "totalamount_996A": 86.0,
+            "totaldebtoverduevalue_178A": 90.0,
+            "totaldebtoverduevalue_718A": 90.0,
+            "totaloutstanddebtvalue_39A": 90.0,
+            "totaloutstanddebtvalue_668A": 90.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_credit_bureau_a_2": {
+        "tabela": "test_credit_bureau_a_2",
+        "total_registros": 120,
+        "total_colunas": 19,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "collater_typofvalofguarant_298M",
+                "string"
+            ],
+            [
+                "collater_typofvalofguarant_407M",
+                "string"
+            ],
+            [
+                "collater_valueofguarantee_1124L",
+                "double"
+            ],
+            [
+                "collater_valueofguarantee_876L",
+                "double"
+            ],
+            [
+                "collaterals_typeofguarante_359M",
+                "string"
+            ],
+            [
+                "collaterals_typeofguarante_669M",
+                "string"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "num_group2",
+                "bigint"
+            ],
+            [
+                "pmts_dpd_1073P",
+                "double"
+            ],
+            [
+                "pmts_dpd_303P",
+                "double"
+            ],
+            [
+                "pmts_month_158T",
+                "double"
+            ],
+            [
+                "pmts_month_706T",
+                "double"
+            ],
+            [
+                "pmts_overdue_1140A",
+                "double"
+            ],
+            [
+                "pmts_overdue_1152A",
+                "double"
+            ],
+            [
+                "pmts_year_1139T",
+                "double"
+            ],
+            [
+                "pmts_year_507T",
+                "double"
+            ],
+            [
+                "subjectroles_name_541M",
+                "string"
+            ],
+            [
+                "subjectroles_name_838M",
+                "string"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "120",
+                "collater_typofvalofguarant_298M": "120",
+                "collater_typofvalofguarant_407M": "120",
+                "collater_valueofguarantee_1124L": "28",
+                "collater_valueofguarantee_876L": "67",
+                "collaterals_typeofguarante_359M": "120",
+                "collaterals_typeofguarante_669M": "120",
+                "num_group1": "120",
+                "num_group2": "120",
+                "pmts_dpd_1073P": "19",
+                "pmts_dpd_303P": "22",
+                "pmts_month_158T": "70",
+                "pmts_month_706T": "108",
+                "pmts_overdue_1140A": "20",
+                "pmts_overdue_1152A": "22",
+                "pmts_year_1139T": "70",
+                "pmts_year_507T": "108",
+                "subjectroles_name_541M": "120",
+                "subjectroles_name_838M": "120"
+            },
+            "mean": {
+                "case_id": "57616.333333333336",
+                "collater_typofvalofguarant_298M": null,
+                "collater_typofvalofguarant_407M": null,
+                "collater_valueofguarantee_1124L": "258214.2857142857",
+                "collater_valueofguarantee_876L": "1122.3880597014925",
+                "collaterals_typeofguarante_359M": null,
+                "collaterals_typeofguarante_669M": null,
+                "num_group1": "2.275",
+                "num_group2": "1.7416666666666667",
+                "pmts_dpd_1073P": "0.0",
+                "pmts_dpd_303P": "742.6363636363636",
+                "pmts_month_158T": "4.4714285714285715",
+                "pmts_month_706T": "3.5185185185185186",
+                "pmts_overdue_1140A": "0.0",
+                "pmts_overdue_1152A": "10645.843",
+                "pmts_year_1139T": "2020.4857142857143",
+                "pmts_year_507T": "2017.8703703703704",
+                "subjectroles_name_541M": null,
+                "subjectroles_name_838M": null
+            },
+            "stddev": {
+                "case_id": "49.43603512244275",
+                "collater_typofvalofguarant_298M": null,
+                "collater_typofvalofguarant_407M": null,
+                "collater_valueofguarantee_1124L": "1366341.5699283564",
+                "collater_valueofguarantee_876L": "9187.142215594153",
+                "collaterals_typeofguarante_359M": null,
+                "collaterals_typeofguarante_669M": null,
+                "num_group1": "3.1381697283125844",
+                "num_group2": "2.5585442070411357",
+                "pmts_dpd_1073P": "0.0",
+                "pmts_dpd_303P": "1109.3393806549288",
+                "pmts_month_158T": "2.7225383965907577",
+                "pmts_month_706T": "2.385632545995647",
+                "pmts_overdue_1140A": "0.0",
+                "pmts_overdue_1152A": "15872.764023063237",
+                "pmts_year_1139T": "1.0597081515490885",
+                "pmts_year_507T": "2.7243882708470113",
+                "subjectroles_name_541M": null,
+                "subjectroles_name_838M": null
+            },
+            "min": {
+                "case_id": "57543",
+                "collater_typofvalofguarant_298M": "8fd95e4b",
+                "collater_typofvalofguarant_407M": "8fd95e4b",
+                "collater_valueofguarantee_1124L": "0.0",
+                "collater_valueofguarantee_876L": "0.0",
+                "collaterals_typeofguarante_359M": "3cbe86ba",
+                "collaterals_typeofguarante_669M": "7b62420e",
+                "num_group1": "0",
+                "num_group2": "0",
+                "pmts_dpd_1073P": "0.0",
+                "pmts_dpd_303P": "0.0",
+                "pmts_month_158T": "2.0",
+                "pmts_month_706T": "2.0",
+                "pmts_overdue_1140A": "0.0",
+                "pmts_overdue_1152A": "0.0",
+                "pmts_year_1139T": "2019.0",
+                "pmts_year_507T": "2007.0",
+                "subjectroles_name_541M": "a55475b1",
+                "subjectroles_name_838M": "a55475b1"
+            },
+            "max": {
+                "case_id": "57696",
+                "collater_typofvalofguarant_298M": "a55475b1",
+                "collater_typofvalofguarant_407M": "a55475b1",
+                "collater_valueofguarantee_1124L": "7230000.0",
+                "collater_valueofguarantee_876L": "75200.0",
+                "collaterals_typeofguarante_359M": "c7a5ad39",
+                "collaterals_typeofguarante_669M": "c7a5ad39",
+                "num_group1": "12",
+                "num_group2": "9",
+                "pmts_dpd_1073P": "0.0",
+                "pmts_dpd_303P": "2410.0",
+                "pmts_month_158T": "11.0",
+                "pmts_month_706T": "10.0",
+                "pmts_overdue_1140A": "0.0",
+                "pmts_overdue_1152A": "33346.402",
+                "pmts_year_1139T": "2022.0",
+                "pmts_year_507T": "2021.0",
+                "subjectroles_name_541M": "ab3c25cf",
+                "subjectroles_name_838M": "ab3c25cf"
+            }
+        },
+        "colunas_com_nulos": {
+            "collater_valueofguarantee_1124L": 76.67,
+            "collater_valueofguarantee_876L": 44.17,
+            "pmts_dpd_1073P": 84.17,
+            "pmts_dpd_303P": 81.67,
+            "pmts_month_158T": 41.67,
+            "pmts_month_706T": 10.0,
+            "pmts_overdue_1140A": 83.33,
+            "pmts_overdue_1152A": 81.67,
+            "pmts_year_1139T": 41.67,
+            "pmts_year_507T": 10.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_credit_bureau_b_1": {
+        "tabela": "test_credit_bureau_b_1",
+        "total_registros": 10,
+        "total_colunas": 45,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "amount_1115A",
+                "double"
+            ],
+            [
+                "classificationofcontr_1114M",
+                "string"
+            ],
+            [
+                "contractdate_551D",
+                "string"
+            ],
+            [
+                "contractmaturitydate_151D",
+                "string"
+            ],
+            [
+                "contractst_516M",
+                "string"
+            ],
+            [
+                "contracttype_653M",
+                "string"
+            ],
+            [
+                "credlmt_1052A",
+                "double"
+            ],
+            [
+                "credlmt_228A",
+                "double"
+            ],
+            [
+                "credlmt_3940954A",
+                "double"
+            ],
+            [
+                "credor_3940957M",
+                "string"
+            ],
+            [
+                "credquantity_1099L",
+                "double"
+            ],
+            [
+                "credquantity_984L",
+                "double"
+            ],
+            [
+                "debtpastduevalue_732A",
+                "double"
+            ],
+            [
+                "debtvalue_227A",
+                "double"
+            ],
+            [
+                "dpd_550P",
+                "double"
+            ],
+            [
+                "dpd_733P",
+                "double"
+            ],
+            [
+                "dpdmax_851P",
+                "double"
+            ],
+            [
+                "dpdmaxdatemonth_804T",
+                "double"
+            ],
+            [
+                "dpdmaxdateyear_742T",
+                "double"
+            ],
+            [
+                "installmentamount_644A",
+                "double"
+            ],
+            [
+                "installmentamount_833A",
+                "double"
+            ],
+            [
+                "instlamount_892A",
+                "double"
+            ],
+            [
+                "interesteffectiverate_369L",
+                "double"
+            ],
+            [
+                "interestrateyearly_538L",
+                "double"
+            ],
+            [
+                "lastupdate_260D",
+                "string"
+            ],
+            [
+                "maxdebtpduevalodued_3940955A",
+                "double"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "numberofinstls_810L",
+                "double"
+            ],
+            [
+                "overdueamountmax_950A",
+                "double"
+            ],
+            [
+                "overdueamountmaxdatemonth_494T",
+                "double"
+            ],
+            [
+                "overdueamountmaxdateyear_432T",
+                "double"
+            ],
+            [
+                "periodicityofpmts_997L",
+                "int"
+            ],
+            [
+                "periodicityofpmts_997M",
+                "string"
+            ],
+            [
+                "pmtdaysoverdue_1135P",
+                "double"
+            ],
+            [
+                "pmtmethod_731M",
+                "string"
+            ],
+            [
+                "pmtnumpending_403L",
+                "double"
+            ],
+            [
+                "purposeofcred_722M",
+                "string"
+            ],
+            [
+                "residualamount_1093A",
+                "double"
+            ],
+            [
+                "residualamount_127A",
+                "double"
+            ],
+            [
+                "residualamount_3940956A",
+                "double"
+            ],
+            [
+                "subjectrole_326M",
+                "string"
+            ],
+            [
+                "subjectrole_43M",
+                "string"
+            ],
+            [
+                "totalamount_503A",
+                "double"
+            ],
+            [
+                "totalamount_881A",
+                "double"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "amount_1115A": "4",
+                "classificationofcontr_1114M": "10",
+                "contractdate_551D": "10",
+                "contractmaturitydate_151D": "10",
+                "contractst_516M": "10",
+                "contracttype_653M": "10",
+                "credlmt_1052A": "2",
+                "credlmt_228A": "2",
+                "credlmt_3940954A": "6",
+                "credor_3940957M": "10",
+                "credquantity_1099L": "4",
+                "credquantity_984L": "5",
+                "debtpastduevalue_732A": "10",
+                "debtvalue_227A": "4",
+                "dpd_550P": "4",
+                "dpd_733P": "5",
+                "dpdmax_851P": "10",
+                "dpdmaxdatemonth_804T": "10",
+                "dpdmaxdateyear_742T": "10",
+                "installmentamount_644A": "5",
+                "installmentamount_833A": "4",
+                "instlamount_892A": "4",
+                "interesteffectiverate_369L": "2",
+                "interestrateyearly_538L": "3",
+                "lastupdate_260D": "10",
+                "maxdebtpduevalodued_3940955A": "10",
+                "num_group1": "10",
+                "numberofinstls_810L": "4",
+                "overdueamountmax_950A": "10",
+                "overdueamountmaxdatemonth_494T": "10",
+                "overdueamountmaxdateyear_432T": "10",
+                "periodicityofpmts_997L": "0",
+                "periodicityofpmts_997M": "10",
+                "pmtdaysoverdue_1135P": "10",
+                "pmtmethod_731M": "10",
+                "pmtnumpending_403L": "4",
+                "purposeofcred_722M": "10",
+                "residualamount_1093A": "2",
+                "residualamount_127A": "2",
+                "residualamount_3940956A": "6",
+                "subjectrole_326M": "10",
+                "subjectrole_43M": "10",
+                "totalamount_503A": "4",
+                "totalamount_881A": "5"
+            },
+            "mean": {
+                "case_id": "57734.5",
+                "amount_1115A": "856404.85",
+                "classificationofcontr_1114M": null,
+                "contractdate_551D": null,
+                "contractmaturitydate_151D": null,
+                "contractst_516M": null,
+                "contracttype_653M": null,
+                "credlmt_1052A": "176315.0",
+                "credlmt_228A": "24000.0",
+                "credlmt_3940954A": "58771.666666666664",
+                "credor_3940957M": null,
+                "credquantity_1099L": "2.0",
+                "credquantity_984L": "8.4",
+                "debtpastduevalue_732A": "0.0",
+                "debtvalue_227A": "726700.35",
+                "dpd_550P": "0.0",
+                "dpd_733P": "0.0",
+                "dpdmax_851P": "5457.1",
+                "dpdmaxdatemonth_804T": "8.9",
+                "dpdmaxdateyear_742T": "2018.2",
+                "installmentamount_644A": "0.0",
+                "installmentamount_833A": "789419.5",
+                "instlamount_892A": "6270.7109",
+                "interesteffectiverate_369L": "30.0",
+                "interestrateyearly_538L": "14.333333333333334",
+                "lastupdate_260D": null,
+                "maxdebtpduevalodued_3940955A": "0.16",
+                "num_group1": "2.0",
+                "numberofinstls_810L": "105.75",
+                "overdueamountmax_950A": "1.22",
+                "overdueamountmaxdatemonth_494T": "8.5",
+                "overdueamountmaxdateyear_432T": "2018.4",
+                "periodicityofpmts_997L": null,
+                "periodicityofpmts_997M": null,
+                "pmtdaysoverdue_1135P": "0.0",
+                "pmtmethod_731M": null,
+                "pmtnumpending_403L": "85.75",
+                "purposeofcred_722M": "Infinity",
+                "residualamount_1093A": "0.0",
+                "residualamount_127A": "125438.3",
+                "residualamount_3940956A": "41812.76633333334",
+                "subjectrole_326M": null,
+                "subjectrole_43M": null,
+                "totalamount_503A": "943312.35",
+                "totalamount_881A": "252087.008"
+            },
+            "stddev": {
+                "case_id": "41.902664990825585",
+                "amount_1115A": "1002572.9693879759",
+                "classificationofcontr_1114M": null,
+                "contractdate_551D": null,
+                "contractmaturitydate_151D": null,
+                "contractst_516M": null,
+                "contracttype_653M": null,
+                "credlmt_1052A": "62625.61918256777",
+                "credlmt_228A": "19798.98987322333",
+                "credlmt_3940954A": "74100.52443988953",
+                "credor_3940957M": null,
+                "credquantity_1099L": "1.4142135623730951",
+                "credquantity_984L": "7.127411872482185",
+                "debtpastduevalue_732A": "0.0",
+                "debtvalue_227A": "839283.7083017618",
+                "dpd_550P": "0.0",
+                "dpd_733P": "0.0",
+                "dpdmax_851P": "12454.027589944995",
+                "dpdmaxdatemonth_804T": "3.4464152068167553",
+                "dpdmaxdateyear_742T": "1.9888578520234965",
+                "installmentamount_644A": "0.0",
+                "installmentamount_833A": "768306.911200102",
+                "instlamount_892A": "8115.554393848002",
+                "interesteffectiverate_369L": "0.0",
+                "interestrateyearly_538L": "21.361959960016154",
+                "lastupdate_260D": null,
+                "maxdebtpduevalodued_3940955A": "0.5059644256269407",
+                "num_group1": "1.8856180831641267",
+                "numberofinstls_810L": "123.32984229293412",
+                "overdueamountmax_950A": "3.3339332793430514",
+                "overdueamountmaxdatemonth_494T": "3.7785946829182113",
+                "overdueamountmaxdateyear_432T": "1.4298407059684974",
+                "periodicityofpmts_997L": null,
+                "periodicityofpmts_997M": null,
+                "pmtdaysoverdue_1135P": "0.0",
+                "pmtmethod_731M": null,
+                "pmtnumpending_403L": "99.45979087048192",
+                "purposeofcred_722M": null,
+                "residualamount_1093A": "0.0",
+                "residualamount_127A": "81145.29732513276",
+                "residualamount_3940956A": "62860.996339254074",
+                "subjectrole_326M": null,
+                "subjectrole_43M": null,
+                "totalamount_503A": "904784.4887475083",
+                "totalamount_881A": "260015.25417288177"
+            },
+            "min": {
+                "case_id": "57675",
+                "amount_1115A": "2000.0",
+                "classificationofcontr_1114M": "01f63ac8",
+                "contractdate_551D": "2012-09-29",
+                "contractmaturitydate_151D": "2020-07-25",
+                "contractst_516M": "04bf6e27",
+                "contracttype_653M": "1c9c5356",
+                "credlmt_1052A": "132032.0",
+                "credlmt_228A": "10000.0",
+                "credlmt_3940954A": "0.0",
+                "credor_3940957M": "3169c2b9",
+                "credquantity_1099L": "1.0",
+                "credquantity_984L": "1.0",
+                "debtpastduevalue_732A": "0.0",
+                "debtvalue_227A": "0.0",
+                "dpd_550P": "0.0",
+                "dpd_733P": "0.0",
+                "dpdmax_851P": "0.0",
+                "dpdmaxdatemonth_804T": "2.0",
+                "dpdmaxdateyear_742T": "2013.0",
+                "installmentamount_644A": "0.0",
+                "installmentamount_833A": "68059.91",
+                "instlamount_892A": "0.0",
+                "interesteffectiverate_369L": "30.0",
+                "interestrateyearly_538L": "2.0",
+                "lastupdate_260D": "2021-12-01",
+                "maxdebtpduevalodued_3940955A": "0.0",
+                "num_group1": "0",
+                "numberofinstls_810L": "1.0",
+                "overdueamountmax_950A": "0.0",
+                "overdueamountmaxdatemonth_494T": "2.0",
+                "overdueamountmaxdateyear_432T": "2015.0",
+                "periodicityofpmts_997L": null,
+                "periodicityofpmts_997M": "3ecc50a0",
+                "pmtdaysoverdue_1135P": "0.0",
+                "pmtmethod_731M": "a55475b1",
+                "pmtnumpending_403L": "0.0",
+                "purposeofcred_722M": "60c73645",
+                "residualamount_1093A": "0.0",
+                "residualamount_127A": "68059.91",
+                "residualamount_3940956A": "0.0",
+                "subjectrole_326M": "P28_48_88",
+                "subjectrole_43M": "a55475b1",
+                "totalamount_503A": "132032.0",
+                "totalamount_881A": "10000.0"
+            },
+            "max": {
+                "case_id": "57775",
+                "amount_1115A": "1932619.4",
+                "classificationofcontr_1114M": "ea6782cc",
+                "contractdate_551D": "2021-12-26",
+                "contractmaturitydate_151D": "2037-06-09",
+                "contractst_516M": "7241344e",
+                "contracttype_653M": "c6678a8f",
+                "credlmt_1052A": "220598.0",
+                "credlmt_228A": "38000.0",
+                "credlmt_3940954A": "200598.0",
+                "credor_3940957M": "b619fa46",
+                "credquantity_1099L": "4.0",
+                "credquantity_984L": "19.0",
+                "debtpastduevalue_732A": "0.0",
+                "debtvalue_227A": "1473622.4",
+                "dpd_550P": "0.0",
+                "dpd_733P": "0.0",
+                "dpdmax_851P": "37403.0",
+                "dpdmaxdatemonth_804T": "12.0",
+                "dpdmaxdateyear_742T": "2020.0",
+                "installmentamount_644A": "0.0",
+                "installmentamount_833A": "1473622.4",
+                "instlamount_892A": "17030.264",
+                "interesteffectiverate_369L": "30.0",
+                "interestrateyearly_538L": "39.0",
+                "lastupdate_260D": "2022-06-15",
+                "maxdebtpduevalodued_3940955A": "1.6",
+                "num_group1": "6",
+                "numberofinstls_810L": "240.0",
+                "overdueamountmax_950A": "10.6",
+                "overdueamountmaxdatemonth_494T": "12.0",
+                "overdueamountmaxdateyear_432T": "2020.0",
+                "periodicityofpmts_997L": null,
+                "periodicityofpmts_997M": "a55475b1",
+                "pmtdaysoverdue_1135P": "0.0",
+                "pmtmethod_731M": "f6e26148",
+                "pmtnumpending_403L": "183.0",
+                "purposeofcred_722M": "9e302002",
+                "residualamount_1093A": "0.0",
+                "residualamount_127A": "182816.69",
+                "residualamount_3940956A": "165095.89",
+                "subjectrole_326M": "ab3c25cf",
+                "subjectrole_43M": "ab3c25cf",
+                "totalamount_503A": "1932619.4",
+                "totalamount_881A": "575772.44"
+            }
+        },
+        "colunas_com_nulos": {
+            "amount_1115A": 60.0,
+            "credlmt_1052A": 80.0,
+            "credlmt_228A": 80.0,
+            "credlmt_3940954A": 40.0,
+            "credquantity_1099L": 60.0,
+            "credquantity_984L": 50.0,
+            "debtvalue_227A": 60.0,
+            "dpd_550P": 60.0,
+            "dpd_733P": 50.0,
+            "installmentamount_644A": 50.0,
+            "installmentamount_833A": 60.0,
+            "instlamount_892A": 60.0,
+            "interesteffectiverate_369L": 80.0,
+            "interestrateyearly_538L": 70.0,
+            "numberofinstls_810L": 60.0,
+            "periodicityofpmts_997L": 100.0,
+            "pmtnumpending_403L": 60.0,
+            "residualamount_1093A": 80.0,
+            "residualamount_127A": 80.0,
+            "residualamount_3940956A": 40.0,
+            "totalamount_503A": 60.0,
+            "totalamount_881A": 50.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_credit_bureau_b_2": {
+        "tabela": "test_credit_bureau_b_2",
+        "total_registros": 10,
+        "total_colunas": 6,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "num_group2",
+                "bigint"
+            ],
+            [
+                "pmts_date_1107D",
+                "string"
+            ],
+            [
+                "pmts_dpdvalue_108P",
+                "double"
+            ],
+            [
+                "pmts_pmtsoverdue_635A",
+                "double"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "num_group1": "10",
+                "num_group2": "10",
+                "pmts_date_1107D": "10",
+                "pmts_dpdvalue_108P": "10",
+                "pmts_pmtsoverdue_635A": "10"
+            },
+            "mean": {
+                "case_id": "57675.0",
+                "num_group1": "0.0",
+                "num_group2": "4.5",
+                "pmts_date_1107D": null,
+                "pmts_dpdvalue_108P": "0.0",
+                "pmts_pmtsoverdue_635A": "0.0"
+            },
+            "stddev": {
+                "case_id": "0.0",
+                "num_group1": "0.0",
+                "num_group2": "3.0276503540974917",
+                "pmts_date_1107D": null,
+                "pmts_dpdvalue_108P": "0.0",
+                "pmts_pmtsoverdue_635A": "0.0"
+            },
+            "min": {
+                "case_id": "57675",
+                "num_group1": "0",
+                "num_group2": "0",
+                "pmts_date_1107D": "2020-05-15",
+                "pmts_dpdvalue_108P": "0.0",
+                "pmts_pmtsoverdue_635A": "0.0"
+            },
+            "max": {
+                "case_id": "57675",
+                "num_group1": "0",
+                "num_group2": "9",
+                "pmts_date_1107D": "2021-02-13",
+                "pmts_dpdvalue_108P": "0.0",
+                "pmts_pmtsoverdue_635A": "0.0"
+            }
+        },
+        "colunas_com_nulos": {},
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_static_0": {
+        "tabela": "test_static_0",
+        "total_registros": 30,
+        "total_colunas": 168,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "actualdpdtolerance_344P",
+                "double"
+            ],
+            [
+                "amtinstpaidbefduel24m_4187115A",
+                "double"
+            ],
+            [
+                "annuity_780A",
+                "double"
+            ],
+            [
+                "annuitynextmonth_57A",
+                "double"
+            ],
+            [
+                "applicationcnt_361L",
+                "double"
+            ],
+            [
+                "applications30d_658L",
+                "double"
+            ],
+            [
+                "applicationscnt_1086L",
+                "double"
+            ],
+            [
+                "applicationscnt_464L",
+                "double"
+            ],
+            [
+                "applicationscnt_629L",
+                "double"
+            ],
+            [
+                "applicationscnt_867L",
+                "double"
+            ],
+            [
+                "avgdbddpdlast24m_3658932P",
+                "double"
+            ],
+            [
+                "avgdbddpdlast3m_4187120P",
+                "double"
+            ],
+            [
+                "avgdbdtollast24m_4525197P",
+                "double"
+            ],
+            [
+                "avgdpdtolclosure24_3658938P",
+                "double"
+            ],
+            [
+                "avginstallast24m_3658937A",
+                "double"
+            ],
+            [
+                "avglnamtstart24m_4525187A",
+                "double"
+            ],
+            [
+                "avgmaxdpdlast9m_3716943P",
+                "double"
+            ],
+            [
+                "avgoutstandbalancel6m_4187114A",
+                "double"
+            ],
+            [
+                "avgpmtlast12m_4525200A",
+                "double"
+            ],
+            [
+                "bankacctype_710L",
+                "string"
+            ],
+            [
+                "cardtype_51L",
+                "string"
+            ],
+            [
+                "clientscnt12m_3712952L",
+                "double"
+            ],
+            [
+                "clientscnt3m_3712950L",
+                "double"
+            ],
+            [
+                "clientscnt6m_3712949L",
+                "double"
+            ],
+            [
+                "clientscnt_100L",
+                "double"
+            ],
+            [
+                "clientscnt_1022L",
+                "double"
+            ],
+            [
+                "clientscnt_1071L",
+                "double"
+            ],
+            [
+                "clientscnt_1130L",
+                "double"
+            ],
+            [
+                "clientscnt_136L",
+                "double"
+            ],
+            [
+                "clientscnt_157L",
+                "double"
+            ],
+            [
+                "clientscnt_257L",
+                "double"
+            ],
+            [
+                "clientscnt_304L",
+                "double"
+            ],
+            [
+                "clientscnt_360L",
+                "double"
+            ],
+            [
+                "clientscnt_493L",
+                "double"
+            ],
+            [
+                "clientscnt_533L",
+                "double"
+            ],
+            [
+                "clientscnt_887L",
+                "double"
+            ],
+            [
+                "clientscnt_946L",
+                "double"
+            ],
+            [
+                "cntincpaycont9m_3716944L",
+                "double"
+            ],
+            [
+                "cntpmts24_3658933L",
+                "double"
+            ],
+            [
+                "commnoinclast6m_3546845L",
+                "double"
+            ],
+            [
+                "credamount_770A",
+                "double"
+            ],
+            [
+                "credtype_322L",
+                "string"
+            ],
+            [
+                "currdebt_22A",
+                "double"
+            ],
+            [
+                "currdebtcredtyperange_828A",
+                "double"
+            ],
+            [
+                "datefirstoffer_1144D",
+                "string"
+            ],
+            [
+                "datelastinstal40dpd_247D",
+                "string"
+            ],
+            [
+                "datelastunpaid_3546854D",
+                "string"
+            ],
+            [
+                "daysoverduetolerancedd_3976961L",
+                "double"
+            ],
+            [
+                "deferredmnthsnum_166L",
+                "double"
+            ],
+            [
+                "disbursedcredamount_1113A",
+                "double"
+            ],
+            [
+                "disbursementtype_67L",
+                "string"
+            ],
+            [
+                "downpmt_116A",
+                "double"
+            ],
+            [
+                "dtlastpmtallstes_4499206D",
+                "string"
+            ],
+            [
+                "eir_270L",
+                "double"
+            ],
+            [
+                "equalitydataagreement_891L",
+                "boolean"
+            ],
+            [
+                "equalityempfrom_62L",
+                "int"
+            ],
+            [
+                "firstclxcampaign_1125D",
+                "string"
+            ],
+            [
+                "firstdatedue_489D",
+                "string"
+            ],
+            [
+                "homephncnt_628L",
+                "double"
+            ],
+            [
+                "inittransactionamount_650A",
+                "double"
+            ],
+            [
+                "inittransactioncode_186L",
+                "string"
+            ],
+            [
+                "interestrate_311L",
+                "double"
+            ],
+            [
+                "interestrategrace_34L",
+                "double"
+            ],
+            [
+                "isbidproduct_1095L",
+                "boolean"
+            ],
+            [
+                "isbidproductrequest_292L",
+                "string"
+            ],
+            [
+                "isdebitcard_729L",
+                "boolean"
+            ],
+            [
+                "lastactivateddate_801D",
+                "string"
+            ],
+            [
+                "lastapplicationdate_877D",
+                "string"
+            ],
+            [
+                "lastapprcommoditycat_1041M",
+                "string"
+            ],
+            [
+                "lastapprcommoditytypec_5251766M",
+                "string"
+            ],
+            [
+                "lastapprcredamount_781A",
+                "double"
+            ],
+            [
+                "lastapprdate_640D",
+                "string"
+            ],
+            [
+                "lastcancelreason_561M",
+                "string"
+            ],
+            [
+                "lastdelinqdate_224D",
+                "string"
+            ],
+            [
+                "lastdependentsnum_448L",
+                "double"
+            ],
+            [
+                "lastotherinc_902A",
+                "double"
+            ],
+            [
+                "lastotherlnsexpense_631A",
+                "double"
+            ],
+            [
+                "lastrejectcommoditycat_161M",
+                "string"
+            ],
+            [
+                "lastrejectcommodtypec_5251769M",
+                "string"
+            ],
+            [
+                "lastrejectcredamount_222A",
+                "double"
+            ],
+            [
+                "lastrejectdate_50D",
+                "string"
+            ],
+            [
+                "lastrejectreason_759M",
+                "string"
+            ],
+            [
+                "lastrejectreasonclient_4145040M",
+                "string"
+            ],
+            [
+                "lastrepayingdate_696D",
+                "int"
+            ],
+            [
+                "lastst_736L",
+                "string"
+            ],
+            [
+                "maininc_215A",
+                "double"
+            ],
+            [
+                "mastercontrelectronic_519L",
+                "double"
+            ],
+            [
+                "mastercontrexist_109L",
+                "double"
+            ],
+            [
+                "maxannuity_159A",
+                "double"
+            ],
+            [
+                "maxannuity_4075009A",
+                "double"
+            ],
+            [
+                "maxdbddpdlast1m_3658939P",
+                "double"
+            ],
+            [
+                "maxdbddpdtollast12m_3658940P",
+                "double"
+            ],
+            [
+                "maxdbddpdtollast6m_4187119P",
+                "double"
+            ],
+            [
+                "maxdebt4_972A",
+                "double"
+            ],
+            [
+                "maxdpdfrom6mto36m_3546853P",
+                "double"
+            ],
+            [
+                "maxdpdinstldate_3546855D",
+                "string"
+            ],
+            [
+                "maxdpdinstlnum_3546846P",
+                "double"
+            ],
+            [
+                "maxdpdlast12m_727P",
+                "double"
+            ],
+            [
+                "maxdpdlast24m_143P",
+                "double"
+            ],
+            [
+                "maxdpdlast3m_392P",
+                "double"
+            ],
+            [
+                "maxdpdlast6m_474P",
+                "double"
+            ],
+            [
+                "maxdpdlast9m_1059P",
+                "double"
+            ],
+            [
+                "maxdpdtolerance_374P",
+                "double"
+            ],
+            [
+                "maxinstallast24m_3658928A",
+                "double"
+            ],
+            [
+                "maxlnamtstart6m_4525199A",
+                "double"
+            ],
+            [
+                "maxoutstandbalancel12m_4187113A",
+                "double"
+            ],
+            [
+                "maxpmtlast3m_4525190A",
+                "double"
+            ],
+            [
+                "mindbddpdlast24m_3658935P",
+                "double"
+            ],
+            [
+                "mindbdtollast24m_4525191P",
+                "double"
+            ],
+            [
+                "mobilephncnt_593L",
+                "double"
+            ],
+            [
+                "monthsannuity_845L",
+                "double"
+            ],
+            [
+                "numactivecreds_622L",
+                "double"
+            ],
+            [
+                "numactivecredschannel_414L",
+                "double"
+            ],
+            [
+                "numactiverelcontr_750L",
+                "double"
+            ],
+            [
+                "numcontrs3months_479L",
+                "double"
+            ],
+            [
+                "numincomingpmts_3546848L",
+                "double"
+            ],
+            [
+                "numinstlallpaidearly3d_817L",
+                "double"
+            ],
+            [
+                "numinstls_657L",
+                "double"
+            ],
+            [
+                "numinstlsallpaid_934L",
+                "double"
+            ],
+            [
+                "numinstlswithdpd10_728L",
+                "double"
+            ],
+            [
+                "numinstlswithdpd5_4187116L",
+                "double"
+            ],
+            [
+                "numinstlswithoutdpd_562L",
+                "double"
+            ],
+            [
+                "numinstmatpaidtearly2d_4499204L",
+                "double"
+            ],
+            [
+                "numinstpaid_4499208L",
+                "double"
+            ],
+            [
+                "numinstpaidearly3d_3546850L",
+                "double"
+            ],
+            [
+                "numinstpaidearly3dest_4493216L",
+                "double"
+            ],
+            [
+                "numinstpaidearly5d_1087L",
+                "double"
+            ],
+            [
+                "numinstpaidearly5dest_4493211L",
+                "double"
+            ],
+            [
+                "numinstpaidearly5dobd_4499205L",
+                "double"
+            ],
+            [
+                "numinstpaidearly_338L",
+                "double"
+            ],
+            [
+                "numinstpaidearlyest_4493214L",
+                "double"
+            ],
+            [
+                "numinstpaidlastcontr_4325080L",
+                "double"
+            ],
+            [
+                "numinstpaidlate1d_3546852L",
+                "double"
+            ],
+            [
+                "numinstregularpaid_973L",
+                "double"
+            ],
+            [
+                "numinstregularpaidest_4493210L",
+                "double"
+            ],
+            [
+                "numinsttopaygr_769L",
+                "double"
+            ],
+            [
+                "numinsttopaygrest_4493213L",
+                "double"
+            ],
+            [
+                "numinstunpaidmax_3546851L",
+                "double"
+            ],
+            [
+                "numinstunpaidmaxest_4493212L",
+                "double"
+            ],
+            [
+                "numnotactivated_1143L",
+                "double"
+            ],
+            [
+                "numpmtchanneldd_318L",
+                "double"
+            ],
+            [
+                "numrejects9m_859L",
+                "double"
+            ],
+            [
+                "opencred_647L",
+                "boolean"
+            ],
+            [
+                "paytype1st_925L",
+                "string"
+            ],
+            [
+                "paytype_783L",
+                "string"
+            ],
+            [
+                "payvacationpostpone_4187118D",
+                "string"
+            ],
+            [
+                "pctinstlsallpaidearl3d_427L",
+                "double"
+            ],
+            [
+                "pctinstlsallpaidlat10d_839L",
+                "double"
+            ],
+            [
+                "pctinstlsallpaidlate1d_3546856L",
+                "double"
+            ],
+            [
+                "pctinstlsallpaidlate4d_3546849L",
+                "double"
+            ],
+            [
+                "pctinstlsallpaidlate6d_3546844L",
+                "double"
+            ],
+            [
+                "pmtnum_254L",
+                "double"
+            ],
+            [
+                "posfpd10lastmonth_333P",
+                "double"
+            ],
+            [
+                "posfpd30lastmonth_3976960P",
+                "double"
+            ],
+            [
+                "posfstqpd30lastmonth_3976962P",
+                "double"
+            ],
+            [
+                "previouscontdistrict_112M",
+                "string"
+            ],
+            [
+                "price_1097A",
+                "double"
+            ],
+            [
+                "sellerplacecnt_915L",
+                "double"
+            ],
+            [
+                "sellerplacescnt_216L",
+                "double"
+            ],
+            [
+                "sumoutstandtotal_3546847A",
+                "double"
+            ],
+            [
+                "sumoutstandtotalest_4493215A",
+                "double"
+            ],
+            [
+                "totaldebt_9A",
+                "double"
+            ],
+            [
+                "totalsettled_863A",
+                "double"
+            ],
+            [
+                "totinstallast1m_4525188A",
+                "double"
+            ],
+            [
+                "twobodfilling_608L",
+                "string"
+            ],
+            [
+                "typesuite_864L",
+                "string"
+            ],
+            [
+                "validfrom_1069D",
+                "double"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "30",
+                "actualdpdtolerance_344P": "30",
+                "amtinstpaidbefduel24m_4187115A": "24",
+                "annuity_780A": "30",
+                "annuitynextmonth_57A": "30",
+                "applicationcnt_361L": "30",
+                "applications30d_658L": "30",
+                "applicationscnt_1086L": "30",
+                "applicationscnt_464L": "30",
+                "applicationscnt_629L": "30",
+                "applicationscnt_867L": "30",
+                "avgdbddpdlast24m_3658932P": "21",
+                "avgdbddpdlast3m_4187120P": "12",
+                "avgdbdtollast24m_4525197P": "21",
+                "avgdpdtolclosure24_3658938P": "24",
+                "avginstallast24m_3658937A": "21",
+                "avglnamtstart24m_4525187A": "6",
+                "avgmaxdpdlast9m_3716943P": "15",
+                "avgoutstandbalancel6m_4187114A": "17",
+                "avgpmtlast12m_4525200A": "17",
+                "bankacctype_710L": "13",
+                "cardtype_51L": "2",
+                "clientscnt12m_3712952L": "30",
+                "clientscnt3m_3712950L": "30",
+                "clientscnt6m_3712949L": "30",
+                "clientscnt_100L": "30",
+                "clientscnt_1022L": "30",
+                "clientscnt_1071L": "30",
+                "clientscnt_1130L": "30",
+                "clientscnt_136L": "0",
+                "clientscnt_157L": "30",
+                "clientscnt_257L": "30",
+                "clientscnt_304L": "30",
+                "clientscnt_360L": "30",
+                "clientscnt_493L": "30",
+                "clientscnt_533L": "30",
+                "clientscnt_887L": "30",
+                "clientscnt_946L": "30",
+                "cntincpaycont9m_3716944L": "24",
+                "cntpmts24_3658933L": "24",
+                "commnoinclast6m_3546845L": "30",
+                "credamount_770A": "30",
+                "credtype_322L": "30",
+                "currdebt_22A": "30",
+                "currdebtcredtyperange_828A": "30",
+                "datefirstoffer_1144D": "17",
+                "datelastinstal40dpd_247D": "3",
+                "datelastunpaid_3546854D": "16",
+                "daysoverduetolerancedd_3976961L": "24",
+                "deferredmnthsnum_166L": "4",
+                "disbursedcredamount_1113A": "30",
+                "disbursementtype_67L": "25",
+                "downpmt_116A": "30",
+                "dtlastpmtallstes_4499206D": "11",
+                "eir_270L": "28",
+                "equalityempfrom_62L": "0",
+                "firstclxcampaign_1125D": "15",
+                "firstdatedue_489D": "24",
+                "homephncnt_628L": "30",
+                "inittransactionamount_650A": "2",
+                "inittransactioncode_186L": "30",
+                "interestrate_311L": "28",
+                "interestrategrace_34L": "0",
+                "isbidproductrequest_292L": "2",
+                "lastactivateddate_801D": "24",
+                "lastapplicationdate_877D": "30",
+                "lastapprcommoditycat_1041M": "30",
+                "lastapprcommoditytypec_5251766M": "30",
+                "lastapprcredamount_781A": "24",
+                "lastapprdate_640D": "24",
+                "lastcancelreason_561M": "30",
+                "lastdelinqdate_224D": "13",
+                "lastdependentsnum_448L": "0",
+                "lastotherinc_902A": "0",
+                "lastotherlnsexpense_631A": "0",
+                "lastrejectcommoditycat_161M": "30",
+                "lastrejectcommodtypec_5251769M": "30",
+                "lastrejectcredamount_222A": "24",
+                "lastrejectdate_50D": "24",
+                "lastrejectreason_759M": "30",
+                "lastrejectreasonclient_4145040M": "30",
+                "lastrepayingdate_696D": "0",
+                "lastst_736L": "30",
+                "maininc_215A": "19",
+                "mastercontrelectronic_519L": "30",
+                "mastercontrexist_109L": "30",
+                "maxannuity_159A": "30",
+                "maxannuity_4075009A": "0",
+                "maxdbddpdlast1m_3658939P": "10",
+                "maxdbddpdtollast12m_3658940P": "17",
+                "maxdbddpdtollast6m_4187119P": "14",
+                "maxdebt4_972A": "30",
+                "maxdpdfrom6mto36m_3546853P": "30",
+                "maxdpdinstldate_3546855D": "19",
+                "maxdpdinstlnum_3546846P": "18",
+                "maxdpdlast12m_727P": "30",
+                "maxdpdlast24m_143P": "30",
+                "maxdpdlast3m_392P": "30",
+                "maxdpdlast6m_474P": "30",
+                "maxdpdlast9m_1059P": "30",
+                "maxdpdtolerance_374P": "30",
+                "maxinstallast24m_3658928A": "21",
+                "maxlnamtstart6m_4525199A": "18",
+                "maxoutstandbalancel12m_4187113A": "18",
+                "maxpmtlast3m_4525190A": "12",
+                "mindbddpdlast24m_3658935P": "21",
+                "mindbdtollast24m_4525191P": "21",
+                "mobilephncnt_593L": "30",
+                "monthsannuity_845L": "24",
+                "numactivecreds_622L": "30",
+                "numactivecredschannel_414L": "30",
+                "numactiverelcontr_750L": "30",
+                "numcontrs3months_479L": "30",
+                "numincomingpmts_3546848L": "24",
+                "numinstlallpaidearly3d_817L": "24",
+                "numinstls_657L": "30",
+                "numinstlsallpaid_934L": "24",
+                "numinstlswithdpd10_728L": "24",
+                "numinstlswithdpd5_4187116L": "24",
+                "numinstlswithoutdpd_562L": "24",
+                "numinstmatpaidtearly2d_4499204L": "24",
+                "numinstpaid_4499208L": "24",
+                "numinstpaidearly3d_3546850L": "24",
+                "numinstpaidearly3dest_4493216L": "24",
+                "numinstpaidearly5d_1087L": "24",
+                "numinstpaidearly5dest_4493211L": "24",
+                "numinstpaidearly5dobd_4499205L": "24",
+                "numinstpaidearly_338L": "24",
+                "numinstpaidearlyest_4493214L": "24",
+                "numinstpaidlastcontr_4325080L": "24",
+                "numinstpaidlate1d_3546852L": "24",
+                "numinstregularpaid_973L": "24",
+                "numinstregularpaidest_4493210L": "24",
+                "numinsttopaygr_769L": "24",
+                "numinsttopaygrest_4493213L": "24",
+                "numinstunpaidmax_3546851L": "24",
+                "numinstunpaidmaxest_4493212L": "24",
+                "numnotactivated_1143L": "30",
+                "numpmtchanneldd_318L": "30",
+                "numrejects9m_859L": "30",
+                "paytype1st_925L": "8",
+                "paytype_783L": "8",
+                "payvacationpostpone_4187118D": "1",
+                "pctinstlsallpaidearl3d_427L": "24",
+                "pctinstlsallpaidlat10d_839L": "24",
+                "pctinstlsallpaidlate1d_3546856L": "24",
+                "pctinstlsallpaidlate4d_3546849L": "24",
+                "pctinstlsallpaidlate6d_3546844L": "24",
+                "pmtnum_254L": "28",
+                "posfpd10lastmonth_333P": "29",
+                "posfpd30lastmonth_3976960P": "28",
+                "posfstqpd30lastmonth_3976962P": "28",
+                "previouscontdistrict_112M": "30",
+                "price_1097A": "19",
+                "sellerplacecnt_915L": "30",
+                "sellerplacescnt_216L": "30",
+                "sumoutstandtotal_3546847A": "24",
+                "sumoutstandtotalest_4493215A": "24",
+                "totaldebt_9A": "30",
+                "totalsettled_863A": "30",
+                "totinstallast1m_4525188A": "12",
+                "twobodfilling_608L": "30",
+                "typesuite_864L": "5",
+                "validfrom_1069D": "0"
+            },
+            "mean": {
+                "case_id": "57775.46666666667",
+                "actualdpdtolerance_344P": "0.3",
+                "amtinstpaidbefduel24m_4187115A": "104253.91991666665",
+                "annuity_780A": "5864.893463333333",
+                "annuitynextmonth_57A": "1711.486703333333",
+                "applicationcnt_361L": "0.0",
+                "applications30d_658L": "0.3",
+                "applicationscnt_1086L": "0.1",
+                "applicationscnt_464L": "0.0",
+                "applicationscnt_629L": "0.0",
+                "applicationscnt_867L": "7.166666666666667",
+                "avgdbddpdlast24m_3658932P": "128.28571428571428",
+                "avgdbddpdlast3m_4187120P": "-3.0833333333333335",
+                "avgdbdtollast24m_4525197P": "128.33333333333334",
+                "avgdpdtolclosure24_3658938P": "105.125",
+                "avginstallast24m_3658937A": "12968.114476190476",
+                "avglnamtstart24m_4525187A": "52241.03416666666",
+                "avgmaxdpdlast9m_3716943P": "0.4666666666666667",
+                "avgoutstandbalancel6m_4187114A": "42901.377529411766",
+                "avgpmtlast12m_4525200A": "16416.04718235294",
+                "bankacctype_710L": null,
+                "cardtype_51L": null,
+                "clientscnt12m_3712952L": "0.0",
+                "clientscnt3m_3712950L": "0.0",
+                "clientscnt6m_3712949L": "0.0",
+                "clientscnt_100L": "0.0",
+                "clientscnt_1022L": "0.1",
+                "clientscnt_1071L": "0.03333333333333333",
+                "clientscnt_1130L": "0.03333333333333333",
+                "clientscnt_136L": null,
+                "clientscnt_157L": "0.0",
+                "clientscnt_257L": "0.0",
+                "clientscnt_304L": "0.0",
+                "clientscnt_360L": "0.0",
+                "clientscnt_493L": "0.0",
+                "clientscnt_533L": "0.1",
+                "clientscnt_887L": "0.0",
+                "clientscnt_946L": "0.03333333333333333",
+                "cntincpaycont9m_3716944L": "5.75",
+                "cntpmts24_3658933L": "11.5",
+                "commnoinclast6m_3546845L": "0.0",
+                "credamount_770A": "83521.84003333333",
+                "credtype_322L": null,
+                "currdebt_22A": "31395.4106",
+                "currdebtcredtyperange_828A": "29773.5867",
+                "datefirstoffer_1144D": null,
+                "datelastinstal40dpd_247D": null,
+                "datelastunpaid_3546854D": null,
+                "daysoverduetolerancedd_3976961L": "154.16666666666666",
+                "deferredmnthsnum_166L": "0.0",
+                "disbursedcredamount_1113A": "80391.9127",
+                "disbursementtype_67L": null,
+                "downpmt_116A": "0.0",
+                "dtlastpmtallstes_4499206D": null,
+                "eir_270L": "0.2899285714285714",
+                "equalityempfrom_62L": null,
+                "firstclxcampaign_1125D": null,
+                "firstdatedue_489D": null,
+                "homephncnt_628L": "0.9",
+                "inittransactionamount_650A": "17938.201",
+                "inittransactioncode_186L": null,
+                "interestrate_311L": "0.2899285714285714",
+                "interestrategrace_34L": null,
+                "isbidproductrequest_292L": null,
+                "lastactivateddate_801D": null,
+                "lastapplicationdate_877D": null,
+                "lastapprcommoditycat_1041M": null,
+                "lastapprcommoditytypec_5251766M": null,
+                "lastapprcredamount_781A": "42905.05004166667",
+                "lastapprdate_640D": null,
+                "lastcancelreason_561M": null,
+                "lastdelinqdate_224D": null,
+                "lastdependentsnum_448L": null,
+                "lastotherinc_902A": null,
+                "lastotherlnsexpense_631A": null,
+                "lastrejectcommoditycat_161M": null,
+                "lastrejectcommodtypec_5251769M": null,
+                "lastrejectcredamount_222A": "66598.99166666667",
+                "lastrejectdate_50D": null,
+                "lastrejectreason_759M": null,
+                "lastrejectreasonclient_4145040M": null,
+                "lastrepayingdate_696D": null,
+                "lastst_736L": null,
+                "maininc_215A": "52157.89473684211",
+                "mastercontrelectronic_519L": "0.0",
+                "mastercontrexist_109L": "0.0",
+                "maxannuity_159A": "83838.56286666666",
+                "maxannuity_4075009A": null,
+                "maxdbddpdlast1m_3658939P": "-3.1",
+                "maxdbddpdtollast12m_3658940P": "170.76470588235293",
+                "maxdbddpdtollast6m_4187119P": "0.5",
+                "maxdebt4_972A": "90447.65786666666",
+                "maxdpdfrom6mto36m_3546853P": "97.43333333333334",
+                "maxdpdinstldate_3546855D": null,
+                "maxdpdinstlnum_3546846P": "9.555555555555555",
+                "maxdpdlast12m_727P": "97.06666666666666",
+                "maxdpdlast24m_143P": "97.33333333333333",
+                "maxdpdlast3m_392P": "0.6666666666666666",
+                "maxdpdlast6m_474P": "0.7",
+                "maxdpdlast9m_1059P": "96.53333333333333",
+                "maxdpdtolerance_374P": "110.2",
+                "maxinstallast24m_3658928A": "45067.753047619044",
+                "maxlnamtstart6m_4525199A": "72272.13416666667",
+                "maxoutstandbalancel12m_4187113A": "112737.26944444445",
+                "maxpmtlast3m_4525190A": "18653.94483333333",
+                "mindbddpdlast24m_3658935P": "111.95238095238095",
+                "mindbdtollast24m_4525191P": "111.95238095238095",
+                "mobilephncnt_593L": "1.7666666666666666",
+                "monthsannuity_845L": "44.666666666666664",
+                "numactivecreds_622L": "0.7",
+                "numactivecredschannel_414L": "0.06666666666666667",
+                "numactiverelcontr_750L": "0.6333333333333333",
+                "numcontrs3months_479L": "0.6",
+                "numincomingpmts_3546848L": "56.958333333333336",
+                "numinstlallpaidearly3d_817L": "35.958333333333336",
+                "numinstls_657L": "10.266666666666667",
+                "numinstlsallpaid_934L": "48.541666666666664",
+                "numinstlswithdpd10_728L": "3.5833333333333335",
+                "numinstlswithdpd5_4187116L": "2.375",
+                "numinstlswithoutdpd_562L": "57.666666666666664",
+                "numinstmatpaidtearly2d_4499204L": "39.125",
+                "numinstpaid_4499208L": "54.75",
+                "numinstpaidearly3d_3546850L": "35.416666666666664",
+                "numinstpaidearly3dest_4493216L": "35.125",
+                "numinstpaidearly5d_1087L": "2.75",
+                "numinstpaidearly5dest_4493211L": "2.75",
+                "numinstpaidearly5dobd_4499205L": "26.166666666666668",
+                "numinstpaidearly_338L": "26.166666666666668",
+                "numinstpaidearlyest_4493214L": "26.166666666666668",
+                "numinstpaidlastcontr_4325080L": "6.291666666666667",
+                "numinstpaidlate1d_3546852L": "6.791666666666667",
+                "numinstregularpaid_973L": "54.583333333333336",
+                "numinstregularpaidest_4493210L": "54.75",
+                "numinsttopaygr_769L": "9.833333333333334",
+                "numinsttopaygrest_4493213L": "9.833333333333334",
+                "numinstunpaidmax_3546851L": "6.166666666666667",
+                "numinstunpaidmaxest_4493212L": "6.166666666666667",
+                "numnotactivated_1143L": "0.23333333333333334",
+                "numpmtchanneldd_318L": "0.1",
+                "numrejects9m_859L": "0.4666666666666667",
+                "paytype1st_925L": null,
+                "paytype_783L": null,
+                "payvacationpostpone_4187118D": null,
+                "pctinstlsallpaidearl3d_427L": "0.6143516666666665",
+                "pctinstlsallpaidlat10d_839L": "0.04958333333333333",
+                "pctinstlsallpaidlate1d_3546856L": "0.12842916666666668",
+                "pctinstlsallpaidlate4d_3546849L": "0.07921875",
+                "pctinstlsallpaidlate6d_3546844L": "0.062121666666666665",
+                "pmtnum_254L": "22.607142857142858",
+                "posfpd10lastmonth_333P": "0.0",
+                "posfpd30lastmonth_3976960P": "0.0",
+                "posfstqpd30lastmonth_3976962P": "0.0",
+                "previouscontdistrict_112M": null,
+                "price_1097A": "22859.72647368421",
+                "sellerplacecnt_915L": "0.23333333333333334",
+                "sellerplacescnt_216L": "3.566666666666667",
+                "sumoutstandtotal_3546847A": "40363.674966666666",
+                "sumoutstandtotalest_4493215A": "40363.674966666666",
+                "totaldebt_9A": "31411.944",
+                "totalsettled_863A": "269169.23103333334",
+                "totinstallast1m_4525188A": "20878.183441666668",
+                "twobodfilling_608L": null,
+                "typesuite_864L": null,
+                "validfrom_1069D": null
+            },
+            "stddev": {
+                "case_id": "246.78103282245868",
+                "actualdpdtolerance_344P": "1.6431676725154984",
+                "amtinstpaidbefduel24m_4187115A": "88120.83029074885",
+                "annuity_780A": "4167.146228673235",
+                "annuitynextmonth_57A": "3691.4232643560213",
+                "applicationcnt_361L": "0.0",
+                "applications30d_658L": "0.7022132498578064",
+                "applicationscnt_1086L": "0.5477225575051661",
+                "applicationscnt_464L": "0.0",
+                "applicationscnt_629L": "0.0",
+                "applicationscnt_867L": "7.153891313092492",
+                "avgdbddpdlast24m_3658932P": "617.7106234198294",
+                "avgdbddpdlast3m_4187120P": "5.615859576937336",
+                "avgdbdtollast24m_4525197P": "617.7000350763576",
+                "avgdpdtolclosure24_3658938P": "513.7274960690652",
+                "avginstallast24m_3658937A": "13460.594599121552",
+                "avglnamtstart24m_4525187A": "44261.72087081798",
+                "avgmaxdpdlast9m_3716943P": "0.7432233529572065",
+                "avgoutstandbalancel6m_4187114A": "60000.66100947982",
+                "avgpmtlast12m_4525200A": "19273.061768064767",
+                "bankacctype_710L": null,
+                "cardtype_51L": null,
+                "clientscnt12m_3712952L": "0.0",
+                "clientscnt3m_3712950L": "0.0",
+                "clientscnt6m_3712949L": "0.0",
+                "clientscnt_100L": "0.0",
+                "clientscnt_1022L": "0.4025778999364488",
+                "clientscnt_1071L": "0.18257418583505536",
+                "clientscnt_1130L": "0.18257418583505536",
+                "clientscnt_136L": null,
+                "clientscnt_157L": "0.0",
+                "clientscnt_257L": "0.0",
+                "clientscnt_304L": "0.0",
+                "clientscnt_360L": "0.0",
+                "clientscnt_493L": "0.0",
+                "clientscnt_533L": "0.30512857662936466",
+                "clientscnt_887L": "0.0",
+                "clientscnt_946L": "0.18257418583505539",
+                "cntincpaycont9m_3716944L": "6.333142636335765",
+                "cntpmts24_3658933L": "8.037953449241536",
+                "commnoinclast6m_3546845L": "0.0",
+                "credamount_770A": "72889.98699248602",
+                "credtype_322L": null,
+                "currdebt_22A": "78196.21018376938",
+                "currdebtcredtyperange_828A": "78643.89086966099",
+                "datefirstoffer_1144D": null,
+                "datelastinstal40dpd_247D": null,
+                "datelastunpaid_3546854D": null,
+                "daysoverduetolerancedd_3976961L": "647.9972266893598",
+                "deferredmnthsnum_166L": "0.0",
+                "disbursedcredamount_1113A": "75076.93093765544",
+                "disbursementtype_67L": null,
+                "downpmt_116A": "0.0",
+                "dtlastpmtallstes_4499206D": null,
+                "eir_270L": "0.12232801337855062",
+                "equalityempfrom_62L": null,
+                "firstclxcampaign_1125D": null,
+                "firstdatedue_489D": null,
+                "homephncnt_628L": "0.7588557629520364",
+                "inittransactionamount_650A": "25368.447138774616",
+                "inittransactioncode_186L": null,
+                "interestrate_311L": "0.12232801337855062",
+                "interestrategrace_34L": null,
+                "isbidproductrequest_292L": null,
+                "lastactivateddate_801D": null,
+                "lastapplicationdate_877D": null,
+                "lastapprcommoditycat_1041M": null,
+                "lastapprcommoditytypec_5251766M": null,
+                "lastapprcredamount_781A": "50166.64304433094",
+                "lastapprdate_640D": null,
+                "lastcancelreason_561M": null,
+                "lastdelinqdate_224D": null,
+                "lastdependentsnum_448L": null,
+                "lastotherinc_902A": null,
+                "lastotherlnsexpense_631A": null,
+                "lastrejectcommoditycat_161M": null,
+                "lastrejectcommodtypec_5251769M": null,
+                "lastrejectcredamount_222A": "49080.04353832019",
+                "lastrejectdate_50D": null,
+                "lastrejectreason_759M": null,
+                "lastrejectreasonclient_4145040M": null,
+                "lastrepayingdate_696D": null,
+                "lastst_736L": null,
+                "maininc_215A": "28682.67606819051",
+                "mastercontrelectronic_519L": "0.0",
+                "mastercontrexist_109L": "0.0",
+                "maxannuity_159A": "115329.65339599761",
+                "maxannuity_4075009A": null,
+                "maxdbddpdlast1m_3658939P": "9.666091936937768",
+                "maxdbddpdtollast12m_3658940P": "694.3073463362393",
+                "maxdbddpdtollast6m_4187119P": "3.5027461753930687",
+                "maxdebt4_972A": "78243.65515295039",
+                "maxdpdfrom6mto36m_3546853P": "522.730080234158",
+                "maxdpdinstldate_3546855D": null,
+                "maxdpdinstlnum_3546846P": "4.259552893165338",
+                "maxdpdlast12m_727P": "522.7930251317789",
+                "maxdpdlast24m_143P": "522.7435141722902",
+                "maxdpdlast3m_392P": "1.988472526464911",
+                "maxdpdlast6m_474P": "1.9852907369815704",
+                "maxdpdlast9m_1059P": "522.8844886834445",
+                "maxdpdtolerance_374P": "522.6475307310945",
+                "maxinstallast24m_3658928A": "60419.595115302036",
+                "maxlnamtstart6m_4525199A": "60023.825439012464",
+                "maxoutstandbalancel12m_4187113A": "99080.27502982349",
+                "maxpmtlast3m_4525190A": "33087.26023749027",
+                "mindbddpdlast24m_3658935P": "612.3025784847289",
+                "mindbdtollast24m_4525191P": "612.3025784847289",
+                "mobilephncnt_593L": "0.7738543627276671",
+                "monthsannuity_845L": "31.66216596544192",
+                "numactivecreds_622L": "0.952311163288627",
+                "numactivecredschannel_414L": "0.3651483716701107",
+                "numactiverelcontr_750L": "0.6686751354593717",
+                "numcontrs3months_479L": "1.1017227888394956",
+                "numincomingpmts_3546848L": "44.50645206441779",
+                "numinstlallpaidearly3d_817L": "32.94459006411756",
+                "numinstls_657L": "26.557593022080084",
+                "numinstlsallpaid_934L": "38.90454222577489",
+                "numinstlswithdpd10_728L": "8.448908685209853",
+                "numinstlswithdpd5_4187116L": "3.7044333017286895",
+                "numinstlswithoutdpd_562L": "43.77677234677597",
+                "numinstmatpaidtearly2d_4499204L": "34.94008847454018",
+                "numinstpaid_4499208L": "42.98356612150438",
+                "numinstpaidearly3d_3546850L": "32.51476810508628",
+                "numinstpaidearly3dest_4493216L": "32.089972021611764",
+                "numinstpaidearly5d_1087L": "3.991839501870742",
+                "numinstpaidearly5dest_4493211L": "3.991839501870742",
+                "numinstpaidearly5dobd_4499205L": "25.566055393935866",
+                "numinstpaidearly_338L": "25.566055393935866",
+                "numinstpaidearlyest_4493214L": "25.566055393935866",
+                "numinstpaidlastcontr_4325080L": "5.797144474478018",
+                "numinstpaidlate1d_3546852L": "8.010749119107112",
+                "numinstregularpaid_973L": "42.692954990221764",
+                "numinstregularpaidest_4493210L": "42.98356612150438",
+                "numinsttopaygr_769L": "25.856908364012263",
+                "numinsttopaygrest_4493213L": "25.856908364012263",
+                "numinstunpaidmax_3546851L": "13.447697933480843",
+                "numinstunpaidmaxest_4493212L": "13.447697933480843",
+                "numnotactivated_1143L": "0.5683207771559354",
+                "numpmtchanneldd_318L": "0.4025778999364488",
+                "numrejects9m_859L": "0.9371024061116425",
+                "paytype1st_925L": null,
+                "paytype_783L": null,
+                "payvacationpostpone_4187118D": null,
+                "pctinstlsallpaidearl3d_427L": "0.21712520765010554",
+                "pctinstlsallpaidlat10d_839L": "0.12282804468979729",
+                "pctinstlsallpaidlate1d_3546856L": "0.1567422905368989",
+                "pctinstlsallpaidlate4d_3546849L": "0.14295047954700044",
+                "pctinstlsallpaidlate6d_3546844L": "0.1287871528384407",
+                "pmtnum_254L": "15.863630161623218",
+                "posfpd10lastmonth_333P": "0.0",
+                "posfpd30lastmonth_3976960P": "0.0",
+                "posfstqpd30lastmonth_3976962P": "0.0",
+                "previouscontdistrict_112M": null,
+                "price_1097A": "29414.50192578341",
+                "sellerplacecnt_915L": "0.5683207771559354",
+                "sellerplacescnt_216L": "3.349558214135867",
+                "sumoutstandtotal_3546847A": "86716.22250969626",
+                "sumoutstandtotalest_4493215A": "86716.22250969626",
+                "totaldebt_9A": "78196.5011134363",
+                "totalsettled_863A": "266250.043924491",
+                "totinstallast1m_4525188A": "33639.38445463952",
+                "twobodfilling_608L": null,
+                "typesuite_864L": null,
+                "validfrom_1069D": null
+            },
+            "min": {
+                "case_id": "57543",
+                "actualdpdtolerance_344P": "0.0",
+                "amtinstpaidbefduel24m_4187115A": "0.0",
+                "annuity_780A": "1165.8",
+                "annuitynextmonth_57A": "0.0",
+                "applicationcnt_361L": "0.0",
+                "applications30d_658L": "0.0",
+                "applicationscnt_1086L": "0.0",
+                "applicationscnt_464L": "0.0",
+                "applicationscnt_629L": "0.0",
+                "applicationscnt_867L": "0.0",
+                "avgdbddpdlast24m_3658932P": "-31.0",
+                "avgdbddpdlast3m_4187120P": "-14.0",
+                "avgdbdtollast24m_4525197P": "-31.0",
+                "avgdpdtolclosure24_3658938P": "0.0",
+                "avginstallast24m_3658937A": "1523.4",
+                "avglnamtstart24m_4525187A": "14842.0",
+                "avgmaxdpdlast9m_3716943P": "0.0",
+                "avgoutstandbalancel6m_4187114A": "-11.46",
+                "avgpmtlast12m_4525200A": "3358.4001",
+                "bankacctype_710L": "CA",
+                "cardtype_51L": "INSTANT",
+                "clientscnt12m_3712952L": "0.0",
+                "clientscnt3m_3712950L": "0.0",
+                "clientscnt6m_3712949L": "0.0",
+                "clientscnt_100L": "0.0",
+                "clientscnt_1022L": "0.0",
+                "clientscnt_1071L": "0.0",
+                "clientscnt_1130L": "0.0",
+                "clientscnt_136L": null,
+                "clientscnt_157L": "0.0",
+                "clientscnt_257L": "0.0",
+                "clientscnt_304L": "0.0",
+                "clientscnt_360L": "0.0",
+                "clientscnt_493L": "0.0",
+                "clientscnt_533L": "0.0",
+                "clientscnt_887L": "0.0",
+                "clientscnt_946L": "0.0",
+                "cntincpaycont9m_3716944L": "0.0",
+                "cntpmts24_3658933L": "0.0",
+                "commnoinclast6m_3546845L": "0.0",
+                "credamount_770A": "12108.2",
+                "credtype_322L": "CAL",
+                "currdebt_22A": "0.0",
+                "currdebtcredtyperange_828A": "0.0",
+                "datefirstoffer_1144D": "2006-06-19",
+                "datelastinstal40dpd_247D": "2017-09-10",
+                "datelastunpaid_3546854D": "2006-05-22",
+                "daysoverduetolerancedd_3976961L": "0.0",
+                "deferredmnthsnum_166L": "0.0",
+                "disbursedcredamount_1113A": "0.0",
+                "disbursementtype_67L": "GBA",
+                "downpmt_116A": "0.0",
+                "dtlastpmtallstes_4499206D": "2006-07-21",
+                "eir_270L": "0.0",
+                "equalityempfrom_62L": null,
+                "firstclxcampaign_1125D": "2014-09-21",
+                "firstdatedue_489D": "2006-01-22",
+                "homephncnt_628L": "0.0",
+                "inittransactionamount_650A": "0.0",
+                "inittransactioncode_186L": "CASH",
+                "interestrate_311L": "0.0",
+                "interestrategrace_34L": null,
+                "isbidproductrequest_292L": "false",
+                "lastactivateddate_801D": "2005-12-27",
+                "lastapplicationdate_877D": "2014-05-06",
+                "lastapprcommoditycat_1041M": "P100_96_175",
+                "lastapprcommoditytypec_5251766M": "P111_89_135",
+                "lastapprcredamount_781A": "0.0",
+                "lastapprdate_640D": "2005-12-23",
+                "lastcancelreason_561M": "P198_89_166",
+                "lastdelinqdate_224D": "2012-12-23",
+                "lastdependentsnum_448L": null,
+                "lastotherinc_902A": null,
+                "lastotherlnsexpense_631A": null,
+                "lastrejectcommoditycat_161M": "P100_96_175",
+                "lastrejectcommodtypec_5251769M": "P108_95_156",
+                "lastrejectcredamount_222A": "2818.0",
+                "lastrejectdate_50D": "2009-04-10",
+                "lastrejectreason_759M": "P198_131_9",
+                "lastrejectreasonclient_4145040M": "P30_86_84",
+                "lastrepayingdate_696D": null,
+                "lastst_736L": "A",
+                "maininc_215A": "6000.0",
+                "mastercontrelectronic_519L": "0.0",
+                "mastercontrexist_109L": "0.0",
+                "maxannuity_159A": "0.0",
+                "maxannuity_4075009A": null,
+                "maxdbddpdlast1m_3658939P": "-26.0",
+                "maxdbddpdtollast12m_3658940P": "-4.0",
+                "maxdbddpdtollast6m_4187119P": "-6.0",
+                "maxdebt4_972A": "0.0",
+                "maxdpdfrom6mto36m_3546853P": "0.0",
+                "maxdpdinstldate_3546855D": "2006-05-22",
+                "maxdpdinstlnum_3546846P": "3.0",
+                "maxdpdlast12m_727P": "0.0",
+                "maxdpdlast24m_143P": "0.0",
+                "maxdpdlast3m_392P": "0.0",
+                "maxdpdlast6m_474P": "0.0",
+                "maxdpdlast9m_1059P": "0.0",
+                "maxdpdtolerance_374P": "0.0",
+                "maxinstallast24m_3658928A": "3536.0",
+                "maxlnamtstart6m_4525199A": "0.0",
+                "maxoutstandbalancel12m_4187113A": "-2.0",
+                "maxpmtlast3m_4525190A": "2400.0",
+                "mindbddpdlast24m_3658935P": "-79.0",
+                "mindbdtollast24m_4525191P": "-79.0",
+                "mobilephncnt_593L": "1.0",
+                "monthsannuity_845L": "6.0",
+                "numactivecreds_622L": "0.0",
+                "numactivecredschannel_414L": "0.0",
+                "numactiverelcontr_750L": "0.0",
+                "numcontrs3months_479L": "0.0",
+                "numincomingpmts_3546848L": "7.0",
+                "numinstlallpaidearly3d_817L": "2.0",
+                "numinstls_657L": "0.0",
+                "numinstlsallpaid_934L": "5.0",
+                "numinstlswithdpd10_728L": "0.0",
+                "numinstlswithdpd5_4187116L": "0.0",
+                "numinstlswithoutdpd_562L": "5.0",
+                "numinstmatpaidtearly2d_4499204L": "3.0",
+                "numinstpaid_4499208L": "6.0",
+                "numinstpaidearly3d_3546850L": "2.0",
+                "numinstpaidearly3dest_4493216L": "2.0",
+                "numinstpaidearly5d_1087L": "0.0",
+                "numinstpaidearly5dest_4493211L": "0.0",
+                "numinstpaidearly5dobd_4499205L": "0.0",
+                "numinstpaidearly_338L": "0.0",
+                "numinstpaidearlyest_4493214L": "0.0",
+                "numinstpaidlastcontr_4325080L": "0.0",
+                "numinstpaidlate1d_3546852L": "0.0",
+                "numinstregularpaid_973L": "6.0",
+                "numinstregularpaidest_4493210L": "6.0",
+                "numinsttopaygr_769L": "0.0",
+                "numinsttopaygrest_4493213L": "0.0",
+                "numinstunpaidmax_3546851L": "0.0",
+                "numinstunpaidmaxest_4493212L": "0.0",
+                "numnotactivated_1143L": "0.0",
+                "numpmtchanneldd_318L": "0.0",
+                "numrejects9m_859L": "0.0",
+                "paytype1st_925L": "OTHER",
+                "paytype_783L": "OTHER",
+                "payvacationpostpone_4187118D": "2020-05-23",
+                "pctinstlsallpaidearl3d_427L": "0.33333",
+                "pctinstlsallpaidlat10d_839L": "0.0",
+                "pctinstlsallpaidlate1d_3546856L": "0.0",
+                "pctinstlsallpaidlate4d_3546849L": "0.0",
+                "pctinstlsallpaidlate6d_3546844L": "0.0",
+                "pmtnum_254L": "6.0",
+                "posfpd10lastmonth_333P": "0.0",
+                "posfpd30lastmonth_3976960P": "0.0",
+                "posfstqpd30lastmonth_3976962P": "0.0",
+                "previouscontdistrict_112M": "P111_135_181",
+                "price_1097A": "0.0",
+                "sellerplacecnt_915L": "0.0",
+                "sellerplacescnt_216L": "0.0",
+                "sumoutstandtotal_3546847A": "0.0",
+                "sumoutstandtotalest_4493215A": "0.0",
+                "totaldebt_9A": "0.0",
+                "totalsettled_863A": "0.0",
+                "totinstallast1m_4525188A": "2765.0",
+                "twobodfilling_608L": "BO",
+                "typesuite_864L": "AL",
+                "validfrom_1069D": null
+            },
+            "max": {
+                "case_id": "58280",
+                "actualdpdtolerance_344P": "9.0",
+                "amtinstpaidbefduel24m_4187115A": "319846.94",
+                "annuity_780A": "19195.201",
+                "annuitynextmonth_57A": "12155.4",
+                "applicationcnt_361L": "0.0",
+                "applications30d_658L": "3.0",
+                "applicationscnt_1086L": "3.0",
+                "applicationscnt_464L": "0.0",
+                "applicationscnt_629L": "0.0",
+                "applicationscnt_867L": "30.0",
+                "avgdbddpdlast24m_3658932P": "2824.0",
+                "avgdbddpdlast3m_4187120P": "5.0",
+                "avgdbdtollast24m_4525197P": "2824.0",
+                "avgdpdtolclosure24_3658938P": "2517.0",
+                "avginstallast24m_3658937A": "55657.402",
+                "avglnamtstart24m_4525187A": "118964.805",
+                "avgmaxdpdlast9m_3716943P": "2.0",
+                "avgoutstandbalancel6m_4187114A": "199322.4",
+                "avgpmtlast12m_4525200A": "83367.2",
+                "bankacctype_710L": "CA",
+                "cardtype_51L": "INSTANT",
+                "clientscnt12m_3712952L": "0.0",
+                "clientscnt3m_3712950L": "0.0",
+                "clientscnt6m_3712949L": "0.0",
+                "clientscnt_100L": "0.0",
+                "clientscnt_1022L": "2.0",
+                "clientscnt_1071L": "1.0",
+                "clientscnt_1130L": "1.0",
+                "clientscnt_136L": null,
+                "clientscnt_157L": "0.0",
+                "clientscnt_257L": "0.0",
+                "clientscnt_304L": "0.0",
+                "clientscnt_360L": "0.0",
+                "clientscnt_493L": "0.0",
+                "clientscnt_533L": "1.0",
+                "clientscnt_887L": "0.0",
+                "clientscnt_946L": "1.0",
+                "cntincpaycont9m_3716944L": "22.0",
+                "cntpmts24_3658933L": "24.0",
+                "commnoinclast6m_3546845L": "0.0",
+                "credamount_770A": "307600.0",
+                "credtype_322L": "REL",
+                "currdebt_22A": "343310.8",
+                "currdebtcredtyperange_828A": "343310.8",
+                "datefirstoffer_1144D": "2016-07-20",
+                "datelastinstal40dpd_247D": "2020-05-28",
+                "datelastunpaid_3546854D": "2022-05-15",
+                "daysoverduetolerancedd_3976961L": "3183.0",
+                "deferredmnthsnum_166L": "0.0",
+                "disbursedcredamount_1113A": "307600.0",
+                "disbursementtype_67L": "SBA",
+                "downpmt_116A": "0.0",
+                "dtlastpmtallstes_4499206D": "2022-02-10",
+                "eir_270L": "0.45",
+                "equalityempfrom_62L": null,
+                "firstclxcampaign_1125D": "2017-03-01",
+                "firstdatedue_489D": "2020-12-30",
+                "homephncnt_628L": "3.0",
+                "inittransactionamount_650A": "35876.402",
+                "inittransactioncode_186L": "POS",
+                "interestrate_311L": "0.45",
+                "interestrategrace_34L": null,
+                "isbidproductrequest_292L": "false",
+                "lastactivateddate_801D": "2022-07-23",
+                "lastapplicationdate_877D": "2022-04-06",
+                "lastapprcommoditycat_1041M": "a55475b1",
+                "lastapprcommoditytypec_5251766M": "a55475b1",
+                "lastapprcredamount_781A": "200000.0",
+                "lastapprdate_640D": "2022-04-06",
+                "lastcancelreason_561M": "a55475b1",
+                "lastdelinqdate_224D": "2022-05-15",
+                "lastdependentsnum_448L": null,
+                "lastotherinc_902A": null,
+                "lastotherlnsexpense_631A": null,
+                "lastrejectcommoditycat_161M": "a55475b1",
+                "lastrejectcommodtypec_5251769M": "a55475b1",
+                "lastrejectcredamount_222A": "160000.0",
+                "lastrejectdate_50D": "2022-01-27",
+                "lastrejectreason_759M": "a55475b1",
+                "lastrejectreasonclient_4145040M": "a55475b1",
+                "lastrepayingdate_696D": null,
+                "lastst_736L": "T",
+                "maininc_215A": "116000.0",
+                "mastercontrelectronic_519L": "0.0",
+                "mastercontrexist_109L": "0.0",
+                "maxannuity_159A": "443400.0",
+                "maxannuity_4075009A": null,
+                "maxdbddpdlast1m_3658939P": "10.0",
+                "maxdbddpdtollast12m_3658940P": "2865.0",
+                "maxdbddpdtollast6m_4187119P": "10.0",
+                "maxdebt4_972A": "247779.16",
+                "maxdpdfrom6mto36m_3546853P": "2865.0",
+                "maxdpdinstldate_3546855D": "2022-05-15",
+                "maxdpdinstlnum_3546846P": "19.0",
+                "maxdpdlast12m_727P": "2865.0",
+                "maxdpdlast24m_143P": "2865.0",
+                "maxdpdlast3m_392P": "10.0",
+                "maxdpdlast6m_474P": "10.0",
+                "maxdpdlast9m_1059P": "2865.0",
+                "maxdpdtolerance_374P": "2865.0",
+                "maxinstallast24m_3658928A": "221916.61",
+                "maxlnamtstart6m_4525199A": "247625.61",
+                "maxoutstandbalancel12m_4187113A": "316110.8",
+                "maxpmtlast3m_4525190A": "122511.4",
+                "mindbddpdlast24m_3658935P": "2783.0",
+                "mindbdtollast24m_4525191P": "2783.0",
+                "mobilephncnt_593L": "3.0",
+                "monthsannuity_845L": "106.0",
+                "numactivecreds_622L": "3.0",
+                "numactivecredschannel_414L": "2.0",
+                "numactiverelcontr_750L": "2.0",
+                "numcontrs3months_479L": "4.0",
+                "numincomingpmts_3546848L": "170.0",
+                "numinstlallpaidearly3d_817L": "138.0",
+                "numinstls_657L": "120.0",
+                "numinstlsallpaid_934L": "155.0",
+                "numinstlswithdpd10_728L": "36.0",
+                "numinstlswithdpd5_4187116L": "13.0",
+                "numinstlswithoutdpd_562L": "168.0",
+                "numinstmatpaidtearly2d_4499204L": "145.0",
+                "numinstpaid_4499208L": "169.0",
+                "numinstpaidearly3d_3546850L": "137.0",
+                "numinstpaidearly3dest_4493216L": "137.0",
+                "numinstpaidearly5d_1087L": "16.0",
+                "numinstpaidearly5dest_4493211L": "16.0",
+                "numinstpaidearly5dobd_4499205L": "102.0",
+                "numinstpaidearly_338L": "102.0",
+                "numinstpaidearlyest_4493214L": "102.0",
+                "numinstpaidlastcontr_4325080L": "19.0",
+                "numinstpaidlate1d_3546852L": "31.0",
+                "numinstregularpaid_973L": "169.0",
+                "numinstregularpaidest_4493210L": "169.0",
+                "numinsttopaygr_769L": "119.0",
+                "numinsttopaygrest_4493213L": "119.0",
+                "numinstunpaidmax_3546851L": "60.0",
+                "numinstunpaidmaxest_4493212L": "60.0",
+                "numnotactivated_1143L": "2.0",
+                "numpmtchanneldd_318L": "2.0",
+                "numrejects9m_859L": "4.0",
+                "paytype1st_925L": "OTHER",
+                "paytype_783L": "OTHER",
+                "payvacationpostpone_4187118D": "2020-05-23",
+                "pctinstlsallpaidearl3d_427L": "1.0",
+                "pctinstlsallpaidlat10d_839L": "0.6",
+                "pctinstlsallpaidlate1d_3546856L": "0.66667",
+                "pctinstlsallpaidlate4d_3546849L": "0.66667",
+                "pctinstlsallpaidlate6d_3546844L": "0.6",
+                "pmtnum_254L": "60.0",
+                "posfpd10lastmonth_333P": "0.0",
+                "posfpd30lastmonth_3976960P": "0.0",
+                "posfstqpd30lastmonth_3976962P": "0.0",
+                "previouscontdistrict_112M": "a55475b1",
+                "price_1097A": "96174.0",
+                "sellerplacecnt_915L": "2.0",
+                "sellerplacescnt_216L": "11.0",
+                "sumoutstandtotal_3546847A": "343310.8",
+                "sumoutstandtotalest_4493215A": "343310.8",
+                "totaldebt_9A": "343310.8",
+                "totalsettled_863A": "826920.2",
+                "totinstallast1m_4525188A": "126058.0",
+                "twobodfilling_608L": "FO",
+                "typesuite_864L": "AL",
+                "validfrom_1069D": null
+            }
+        },
+        "colunas_com_nulos": {
+            "amtinstpaidbefduel24m_4187115A": 20.0,
+            "avgdbddpdlast24m_3658932P": 30.0,
+            "avgdbddpdlast3m_4187120P": 60.0,
+            "avgdbdtollast24m_4525197P": 30.0,
+            "avgdpdtolclosure24_3658938P": 20.0,
+            "avginstallast24m_3658937A": 30.0,
+            "avglnamtstart24m_4525187A": 80.0,
+            "avgmaxdpdlast9m_3716943P": 50.0,
+            "avgoutstandbalancel6m_4187114A": 43.33,
+            "avgpmtlast12m_4525200A": 43.33,
+            "bankacctype_710L": 56.67,
+            "cardtype_51L": 93.33,
+            "clientscnt_136L": 100.0,
+            "cntincpaycont9m_3716944L": 20.0,
+            "cntpmts24_3658933L": 20.0,
+            "datefirstoffer_1144D": 43.33,
+            "datelastinstal40dpd_247D": 90.0,
+            "datelastunpaid_3546854D": 46.67,
+            "daysoverduetolerancedd_3976961L": 20.0,
+            "deferredmnthsnum_166L": 86.67,
+            "disbursementtype_67L": 16.67,
+            "dtlastpmtallstes_4499206D": 63.33,
+            "eir_270L": 6.67,
+            "equalitydataagreement_891L": 86.67,
+            "equalityempfrom_62L": 100.0,
+            "firstclxcampaign_1125D": 50.0,
+            "firstdatedue_489D": 20.0,
+            "inittransactionamount_650A": 93.33,
+            "interestrate_311L": 6.67,
+            "interestrategrace_34L": 100.0,
+            "isbidproductrequest_292L": 93.33,
+            "isdebitcard_729L": 6.67,
+            "lastactivateddate_801D": 20.0,
+            "lastapprcredamount_781A": 20.0,
+            "lastapprdate_640D": 20.0,
+            "lastdelinqdate_224D": 56.67,
+            "lastdependentsnum_448L": 100.0,
+            "lastotherinc_902A": 100.0,
+            "lastotherlnsexpense_631A": 100.0,
+            "lastrejectcredamount_222A": 20.0,
+            "lastrejectdate_50D": 20.0,
+            "lastrepayingdate_696D": 100.0,
+            "maininc_215A": 36.67,
+            "maxannuity_4075009A": 100.0,
+            "maxdbddpdlast1m_3658939P": 66.67,
+            "maxdbddpdtollast12m_3658940P": 43.33,
+            "maxdbddpdtollast6m_4187119P": 53.33,
+            "maxdpdinstldate_3546855D": 36.67,
+            "maxdpdinstlnum_3546846P": 40.0,
+            "maxinstallast24m_3658928A": 30.0,
+            "maxlnamtstart6m_4525199A": 40.0,
+            "maxoutstandbalancel12m_4187113A": 40.0,
+            "maxpmtlast3m_4525190A": 60.0,
+            "mindbddpdlast24m_3658935P": 30.0,
+            "mindbdtollast24m_4525191P": 30.0,
+            "monthsannuity_845L": 20.0,
+            "numincomingpmts_3546848L": 20.0,
+            "numinstlallpaidearly3d_817L": 20.0,
+            "numinstlsallpaid_934L": 20.0,
+            "numinstlswithdpd10_728L": 20.0,
+            "numinstlswithdpd5_4187116L": 20.0,
+            "numinstlswithoutdpd_562L": 20.0,
+            "numinstmatpaidtearly2d_4499204L": 20.0,
+            "numinstpaid_4499208L": 20.0,
+            "numinstpaidearly3d_3546850L": 20.0,
+            "numinstpaidearly3dest_4493216L": 20.0,
+            "numinstpaidearly5d_1087L": 20.0,
+            "numinstpaidearly5dest_4493211L": 20.0,
+            "numinstpaidearly5dobd_4499205L": 20.0,
+            "numinstpaidearly_338L": 20.0,
+            "numinstpaidearlyest_4493214L": 20.0,
+            "numinstpaidlastcontr_4325080L": 20.0,
+            "numinstpaidlate1d_3546852L": 20.0,
+            "numinstregularpaid_973L": 20.0,
+            "numinstregularpaidest_4493210L": 20.0,
+            "numinsttopaygr_769L": 20.0,
+            "numinsttopaygrest_4493213L": 20.0,
+            "numinstunpaidmax_3546851L": 20.0,
+            "numinstunpaidmaxest_4493212L": 20.0,
+            "paytype1st_925L": 73.33,
+            "paytype_783L": 73.33,
+            "payvacationpostpone_4187118D": 96.67,
+            "pctinstlsallpaidearl3d_427L": 20.0,
+            "pctinstlsallpaidlat10d_839L": 20.0,
+            "pctinstlsallpaidlate1d_3546856L": 20.0,
+            "pctinstlsallpaidlate4d_3546849L": 20.0,
+            "pctinstlsallpaidlate6d_3546844L": 20.0,
+            "pmtnum_254L": 6.67,
+            "posfpd10lastmonth_333P": 3.33,
+            "posfpd30lastmonth_3976960P": 6.67,
+            "posfstqpd30lastmonth_3976962P": 6.67,
+            "price_1097A": 36.67,
+            "sumoutstandtotal_3546847A": 20.0,
+            "sumoutstandtotalest_4493215A": 20.0,
+            "totinstallast1m_4525188A": 60.0,
+            "typesuite_864L": 83.33,
+            "validfrom_1069D": 100.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "válida"
+        }
+    },
+    "test_base": {
+        "tabela": "test_base",
+        "total_registros": 10,
+        "total_colunas": 4,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "date_decision",
+                "string"
+            ],
+            [
+                "MONTH",
+                "bigint"
+            ],
+            [
+                "WEEK_NUM",
+                "bigint"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "date_decision": "10",
+                "MONTH": "10",
+                "WEEK_NUM": "10"
+            },
+            "mean": {
+                "case_id": "57592.4",
+                "date_decision": null,
+                "MONTH": "202201.0",
+                "WEEK_NUM": "100.0"
+            },
+            "stddev": {
+                "case_id": "42.25373093322641",
+                "date_decision": null,
+                "MONTH": "0.0",
+                "WEEK_NUM": "0.0"
+            },
+            "min": {
+                "case_id": "57543",
+                "date_decision": "2020-11-27",
+                "MONTH": "202201",
+                "WEEK_NUM": "100"
+            },
+            "max": {
+                "case_id": "57634",
+                "date_decision": "2022-06-04",
+                "MONTH": "202201",
+                "WEEK_NUM": "100"
+            }
+        },
+        "colunas_com_nulos": {},
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "válida"
+        }
+    },
+    "test_debitcard_1": {
+        "tabela": "test_debitcard_1",
+        "total_registros": 10,
+        "total_colunas": 6,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "last180dayaveragebalance_704A",
+                "double"
+            ],
+            [
+                "last180dayturnover_1134A",
+                "double"
+            ],
+            [
+                "last30dayturnover_651A",
+                "double"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "openingdate_857D",
+                "string"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "last180dayaveragebalance_704A": "0",
+                "last180dayturnover_1134A": "0",
+                "last30dayturnover_651A": "0",
+                "num_group1": "10",
+                "openingdate_857D": "10"
+            },
+            "mean": {
+                "case_id": "57691.0",
+                "last180dayaveragebalance_704A": null,
+                "last180dayturnover_1134A": null,
+                "last30dayturnover_651A": null,
+                "num_group1": "0.9",
+                "openingdate_857D": null
+            },
+            "stddev": {
+                "case_id": "32.734623192509574",
+                "last180dayaveragebalance_704A": null,
+                "last180dayturnover_1134A": null,
+                "last30dayturnover_651A": null,
+                "num_group1": "1.1005049346146119",
+                "openingdate_857D": null
+            },
+            "min": {
+                "case_id": "57644",
+                "last180dayaveragebalance_704A": null,
+                "last180dayturnover_1134A": null,
+                "last30dayturnover_651A": null,
+                "num_group1": "0",
+                "openingdate_857D": "2012-08-01"
+            },
+            "max": {
+                "case_id": "57715",
+                "last180dayaveragebalance_704A": null,
+                "last180dayturnover_1134A": null,
+                "last30dayturnover_651A": null,
+                "num_group1": "3",
+                "openingdate_857D": "2016-04-21"
+            }
+        },
+        "colunas_com_nulos": {
+            "last180dayaveragebalance_704A": 100.0,
+            "last180dayturnover_1134A": 100.0,
+            "last30dayturnover_651A": 100.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_deposit_1": {
+        "tabela": "test_deposit_1",
+        "total_registros": 10,
+        "total_colunas": 5,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "amount_416A",
+                "double"
+            ],
+            [
+                "contractenddate_991D",
+                "string"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "openingdate_313D",
+                "string"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "amount_416A": "10",
+                "contractenddate_991D": "4",
+                "num_group1": "10",
+                "openingdate_313D": "10"
+            },
+            "mean": {
+                "case_id": "57691.0",
+                "amount_416A": "206.2558",
+                "contractenddate_991D": null,
+                "num_group1": "1.2",
+                "openingdate_313D": null
+            },
+            "stddev": {
+                "case_id": "32.734623192509574",
+                "amount_416A": "566.0312273509298",
+                "contractenddate_991D": null,
+                "num_group1": "1.4757295747452437",
+                "openingdate_313D": null
+            },
+            "min": {
+                "case_id": "57644",
+                "amount_416A": "0.0",
+                "contractenddate_991D": "2016-03-16",
+                "num_group1": "0",
+                "openingdate_313D": "2012-08-01"
+            },
+            "max": {
+                "case_id": "57715",
+                "amount_416A": "1800.0",
+                "contractenddate_991D": "2019-04-21",
+                "num_group1": "4",
+                "openingdate_313D": "2016-04-21"
+            }
+        },
+        "colunas_com_nulos": {
+            "contractenddate_991D": 60.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_other_1": {
+        "tabela": "test_other_1",
+        "total_registros": 10,
+        "total_colunas": 7,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "amtdebitincoming_4809443A",
+                "double"
+            ],
+            [
+                "amtdebitoutgoing_4809440A",
+                "double"
+            ],
+            [
+                "amtdepositbalance_4809441A",
+                "double"
+            ],
+            [
+                "amtdepositincoming_4809444A",
+                "double"
+            ],
+            [
+                "amtdepositoutgoing_4809442A",
+                "double"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "amtdebitincoming_4809443A": "10",
+                "amtdebitoutgoing_4809440A": "10",
+                "amtdepositbalance_4809441A": "10",
+                "amtdepositincoming_4809444A": "10",
+                "amtdepositoutgoing_4809442A": "10",
+                "num_group1": "10"
+            },
+            "mean": {
+                "case_id": "57633.5",
+                "amtdebitincoming_4809443A": "13698.3402",
+                "amtdebitoutgoing_4809440A": "13979.62",
+                "amtdepositbalance_4809441A": "227.420001",
+                "amtdepositincoming_4809444A": "2764.2599999999998",
+                "amtdepositoutgoing_4809442A": "113.94000000999999",
+                "num_group1": "0.1"
+            },
+            "stddev": {
+                "case_id": "47.02068102914357",
+                "amtdebitincoming_4809443A": "19224.8256882843",
+                "amtdebitoutgoing_4809440A": "19276.567702195673",
+                "amtdepositbalance_4809441A": "487.4855981940617",
+                "amtdepositincoming_4809444A": "6678.773351147648",
+                "amtdepositoutgoing_4809442A": "347.6053579656057",
+                "num_group1": "0.31622776601683794"
+            },
+            "min": {
+                "case_id": "57543",
+                "amtdebitincoming_4809443A": "0.0",
+                "amtdebitoutgoing_4809440A": "0.0",
+                "amtdepositbalance_4809441A": "0.0",
+                "amtdepositincoming_4809444A": "0.0",
+                "amtdepositoutgoing_4809442A": "0.0",
+                "num_group1": "0"
+            },
+            "max": {
+                "case_id": "57669",
+                "amtdebitincoming_4809443A": "57910.8",
+                "amtdebitoutgoing_4809440A": "57908.0",
+                "amtdepositbalance_4809441A": "1579.6",
+                "amtdepositincoming_4809444A": "20742.6",
+                "amtdepositoutgoing_4809442A": "1102.8",
+                "num_group1": "1"
+            }
+        },
+        "colunas_com_nulos": {},
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_person_1": {
+        "tabela": "test_person_1",
+        "total_registros": 10,
+        "total_colunas": 37,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "birth_259D",
+                "string"
+            ],
+            [
+                "birthdate_87D",
+                "string"
+            ],
+            [
+                "childnum_185L",
+                "double"
+            ],
+            [
+                "contaddr_district_15M",
+                "string"
+            ],
+            [
+                "contaddr_matchlist_1032L",
+                "boolean"
+            ],
+            [
+                "contaddr_smempladdr_334L",
+                "boolean"
+            ],
+            [
+                "contaddr_zipcode_807M",
+                "string"
+            ],
+            [
+                "education_927M",
+                "string"
+            ],
+            [
+                "empl_employedfrom_271D",
+                "string"
+            ],
+            [
+                "empl_employedtotal_800L",
+                "int"
+            ],
+            [
+                "empl_industry_691L",
+                "int"
+            ],
+            [
+                "empladdr_district_926M",
+                "string"
+            ],
+            [
+                "empladdr_zipcode_114M",
+                "string"
+            ],
+            [
+                "familystate_447L",
+                "string"
+            ],
+            [
+                "gender_992L",
+                "string"
+            ],
+            [
+                "housetype_905L",
+                "string"
+            ],
+            [
+                "housingtype_772L",
+                "string"
+            ],
+            [
+                "incometype_1044T",
+                "string"
+            ],
+            [
+                "isreference_387L",
+                "boolean"
+            ],
+            [
+                "language1_981M",
+                "string"
+            ],
+            [
+                "mainoccupationinc_384A",
+                "double"
+            ],
+            [
+                "maritalst_703L",
+                "string"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "personindex_1023L",
+                "double"
+            ],
+            [
+                "persontype_1072L",
+                "double"
+            ],
+            [
+                "persontype_792L",
+                "double"
+            ],
+            [
+                "registaddr_district_1083M",
+                "string"
+            ],
+            [
+                "registaddr_zipcode_184M",
+                "string"
+            ],
+            [
+                "relationshiptoclient_415T",
+                "string"
+            ],
+            [
+                "relationshiptoclient_642T",
+                "string"
+            ],
+            [
+                "remitter_829L",
+                "boolean"
+            ],
+            [
+                "role_1084L",
+                "string"
+            ],
+            [
+                "role_993L",
+                "string"
+            ],
+            [
+                "safeguarantyflag_411L",
+                "boolean"
+            ],
+            [
+                "sex_738L",
+                "string"
+            ],
+            [
+                "type_25L",
+                "string"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "birth_259D": "6",
+                "birthdate_87D": "2",
+                "childnum_185L": "1",
+                "contaddr_district_15M": "10",
+                "contaddr_zipcode_807M": "10",
+                "education_927M": "10",
+                "empl_employedfrom_271D": "1",
+                "empl_employedtotal_800L": "0",
+                "empl_industry_691L": "0",
+                "empladdr_district_926M": "10",
+                "empladdr_zipcode_114M": "10",
+                "familystate_447L": "4",
+                "gender_992L": "2",
+                "housetype_905L": "3",
+                "housingtype_772L": "1",
+                "incometype_1044T": "6",
+                "language1_981M": "10",
+                "mainoccupationinc_384A": "6",
+                "maritalst_703L": "1",
+                "num_group1": "10",
+                "personindex_1023L": "10",
+                "persontype_1072L": "10",
+                "persontype_792L": "10",
+                "registaddr_district_1083M": "10",
+                "registaddr_zipcode_184M": "10",
+                "relationshiptoclient_415T": "4",
+                "relationshiptoclient_642T": "4",
+                "role_1084L": "10",
+                "role_993L": "2",
+                "sex_738L": "6",
+                "type_25L": "10"
+            },
+            "mean": {
+                "case_id": "57568.5",
+                "birth_259D": null,
+                "birthdate_87D": null,
+                "childnum_185L": "0.0",
+                "contaddr_district_15M": null,
+                "contaddr_zipcode_807M": null,
+                "education_927M": null,
+                "empl_employedfrom_271D": null,
+                "empl_employedtotal_800L": null,
+                "empl_industry_691L": null,
+                "empladdr_district_926M": null,
+                "empladdr_zipcode_114M": null,
+                "familystate_447L": null,
+                "gender_992L": null,
+                "housetype_905L": null,
+                "housingtype_772L": null,
+                "incometype_1044T": null,
+                "language1_981M": null,
+                "mainoccupationinc_384A": "62233.333333333336",
+                "maritalst_703L": null,
+                "num_group1": "0.4",
+                "personindex_1023L": "0.4",
+                "persontype_1072L": "2.5",
+                "persontype_792L": "2.5",
+                "registaddr_district_1083M": null,
+                "registaddr_zipcode_184M": null,
+                "relationshiptoclient_415T": null,
+                "relationshiptoclient_642T": null,
+                "role_1084L": null,
+                "role_993L": null,
+                "sex_738L": null,
+                "type_25L": null
+            },
+            "stddev": {
+                "case_id": "33.67244174890424",
+                "birth_259D": null,
+                "birthdate_87D": null,
+                "childnum_185L": null,
+                "contaddr_district_15M": null,
+                "contaddr_zipcode_807M": null,
+                "education_927M": null,
+                "empl_employedfrom_271D": null,
+                "empl_employedtotal_800L": null,
+                "empl_industry_691L": null,
+                "empladdr_district_926M": null,
+                "empladdr_zipcode_114M": null,
+                "familystate_447L": null,
+                "gender_992L": null,
+                "housetype_905L": null,
+                "housingtype_772L": null,
+                "incometype_1044T": null,
+                "language1_981M": null,
+                "mainoccupationinc_384A": "26299.32825504611",
+                "maritalst_703L": null,
+                "num_group1": "0.5163977794943222",
+                "personindex_1023L": "0.5163977794943222",
+                "persontype_1072L": "1.9578900207451218",
+                "persontype_792L": "1.9578900207451218",
+                "registaddr_district_1083M": null,
+                "registaddr_zipcode_184M": null,
+                "relationshiptoclient_415T": null,
+                "relationshiptoclient_642T": null,
+                "role_1084L": null,
+                "role_993L": null,
+                "sex_738L": null,
+                "type_25L": null
+            },
+            "min": {
+                "case_id": "57543",
+                "birth_259D": "1949-09-01",
+                "birthdate_87D": "1949-09-01",
+                "childnum_185L": "0.0",
+                "contaddr_district_15M": "P107_155_111",
+                "contaddr_zipcode_807M": "P161_14_174",
+                "education_927M": "P106_81_188",
+                "empl_employedfrom_271D": "2002-01-08",
+                "empl_employedtotal_800L": null,
+                "empl_industry_691L": null,
+                "empladdr_district_926M": "a55475b1",
+                "empladdr_zipcode_114M": "a55475b1",
+                "familystate_447L": "SINGLE",
+                "gender_992L": "F",
+                "housetype_905L": "OWNED",
+                "housingtype_772L": "OWNED",
+                "incometype_1044T": "RETIRED_PENSIONER",
+                "language1_981M": "P10_39_147",
+                "mainoccupationinc_384A": "34000.0",
+                "maritalst_703L": "MARRIED",
+                "num_group1": "0",
+                "personindex_1023L": "0.0",
+                "persontype_1072L": "1.0",
+                "persontype_792L": "1.0",
+                "registaddr_district_1083M": "P107_155_111",
+                "registaddr_zipcode_184M": "P111_112_180",
+                "relationshiptoclient_415T": "CHILD",
+                "relationshiptoclient_642T": "CHILD",
+                "role_1084L": "CL",
+                "role_993L": "FULL",
+                "sex_738L": "F",
+                "type_25L": "PHONE"
+            },
+            "max": {
+                "case_id": "57630",
+                "birth_259D": "1982-05-01",
+                "birthdate_87D": "1949-09-01",
+                "childnum_185L": "0.0",
+                "contaddr_district_15M": "a55475b1",
+                "contaddr_zipcode_807M": "a55475b1",
+                "education_927M": "a55475b1",
+                "empl_employedfrom_271D": "2002-01-08",
+                "empl_employedtotal_800L": null,
+                "empl_industry_691L": null,
+                "empladdr_district_926M": "a55475b1",
+                "empladdr_zipcode_114M": "a55475b1",
+                "familystate_447L": "SINGLE",
+                "gender_992L": "F",
+                "housetype_905L": "OWNED",
+                "housingtype_772L": "OWNED",
+                "incometype_1044T": "SALARIED_GOVT",
+                "language1_981M": "a55475b1",
+                "mainoccupationinc_384A": "112000.0",
+                "maritalst_703L": "MARRIED",
+                "num_group1": "1",
+                "personindex_1023L": "1.0",
+                "persontype_1072L": "5.0",
+                "persontype_792L": "5.0",
+                "registaddr_district_1083M": "a55475b1",
+                "registaddr_zipcode_184M": "a55475b1",
+                "relationshiptoclient_415T": "SPOUSE",
+                "relationshiptoclient_642T": "SPOUSE",
+                "role_1084L": "PE",
+                "role_993L": "FULL",
+                "sex_738L": "M",
+                "type_25L": "PRIMARY_MOBILE"
+            }
+        },
+        "colunas_com_nulos": {
+            "birth_259D": 40.0,
+            "birthdate_87D": 80.0,
+            "childnum_185L": 90.0,
+            "contaddr_matchlist_1032L": 50.0,
+            "contaddr_smempladdr_334L": 50.0,
+            "empl_employedfrom_271D": 90.0,
+            "empl_employedtotal_800L": 100.0,
+            "empl_industry_691L": 100.0,
+            "familystate_447L": 60.0,
+            "gender_992L": 80.0,
+            "housetype_905L": 70.0,
+            "housingtype_772L": 90.0,
+            "incometype_1044T": 40.0,
+            "isreference_387L": 80.0,
+            "mainoccupationinc_384A": 40.0,
+            "maritalst_703L": 90.0,
+            "relationshiptoclient_415T": 60.0,
+            "relationshiptoclient_642T": 60.0,
+            "remitter_829L": 60.0,
+            "role_993L": 80.0,
+            "safeguarantyflag_411L": 40.0,
+            "sex_738L": 40.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_person_2": {
+        "tabela": "test_person_2",
+        "total_registros": 10,
+        "total_colunas": 11,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "addres_district_368M",
+                "string"
+            ],
+            [
+                "addres_role_871L",
+                "string"
+            ],
+            [
+                "addres_zip_823M",
+                "string"
+            ],
+            [
+                "conts_role_79M",
+                "string"
+            ],
+            [
+                "empls_economicalst_849M",
+                "string"
+            ],
+            [
+                "empls_employedfrom_796D",
+                "int"
+            ],
+            [
+                "empls_employer_name_740M",
+                "string"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "num_group2",
+                "bigint"
+            ],
+            [
+                "relatedpersons_role_762T",
+                "string"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "addres_district_368M": "10",
+                "addres_role_871L": "8",
+                "addres_zip_823M": "10",
+                "conts_role_79M": "10",
+                "empls_economicalst_849M": "10",
+                "empls_employedfrom_796D": "0",
+                "empls_employer_name_740M": "10",
+                "num_group1": "10",
+                "num_group2": "10",
+                "relatedpersons_role_762T": "3"
+            },
+            "mean": {
+                "case_id": "57565.5",
+                "addres_district_368M": null,
+                "addres_role_871L": null,
+                "addres_zip_823M": null,
+                "conts_role_79M": null,
+                "empls_economicalst_849M": null,
+                "empls_employedfrom_796D": null,
+                "empls_employer_name_740M": null,
+                "num_group1": "0.6",
+                "num_group2": "1.6",
+                "relatedpersons_role_762T": null
+            },
+            "stddev": {
+                "case_id": "7.382411530116649",
+                "addres_district_368M": null,
+                "addres_role_871L": null,
+                "addres_zip_823M": null,
+                "conts_role_79M": null,
+                "empls_economicalst_849M": null,
+                "empls_employedfrom_796D": null,
+                "empls_employer_name_740M": null,
+                "num_group1": "0.5163977794943222",
+                "num_group2": "1.837873166945363",
+                "relatedpersons_role_762T": null
+            },
+            "min": {
+                "case_id": "57551",
+                "addres_district_368M": "P121_131_159",
+                "addres_role_871L": "CONTACT",
+                "addres_zip_823M": "P47_66_61",
+                "conts_role_79M": "P125_105_50",
+                "empls_economicalst_849M": "P148_57_109",
+                "empls_employedfrom_796D": null,
+                "empls_employer_name_740M": "a55475b1",
+                "num_group1": "0",
+                "num_group2": "0",
+                "relatedpersons_role_762T": "OTHER"
+            },
+            "max": {
+                "case_id": "57569",
+                "addres_district_368M": "a55475b1",
+                "addres_role_871L": "TEMPORARY",
+                "addres_zip_823M": "a55475b1",
+                "conts_role_79M": "a55475b1",
+                "empls_economicalst_849M": "a55475b1",
+                "empls_employedfrom_796D": null,
+                "empls_employer_name_740M": "a55475b1",
+                "num_group1": "1",
+                "num_group2": "5",
+                "relatedpersons_role_762T": "PARENT"
+            }
+        },
+        "colunas_com_nulos": {
+            "addres_role_871L": 20.0,
+            "empls_employedfrom_796D": 100.0,
+            "relatedpersons_role_762T": 70.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_static_cb_0": {
+        "tabela": "test_static_cb_0",
+        "total_registros": 10,
+        "total_colunas": 53,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "assignmentdate_238D",
+                "double"
+            ],
+            [
+                "assignmentdate_4527235D",
+                "int"
+            ],
+            [
+                "assignmentdate_4955616D",
+                "string"
+            ],
+            [
+                "birthdate_574D",
+                "double"
+            ],
+            [
+                "contractssum_5085716L",
+                "double"
+            ],
+            [
+                "dateofbirth_337D",
+                "string"
+            ],
+            [
+                "dateofbirth_342D",
+                "int"
+            ],
+            [
+                "days120_123L",
+                "double"
+            ],
+            [
+                "days180_256L",
+                "double"
+            ],
+            [
+                "days30_165L",
+                "double"
+            ],
+            [
+                "days360_512L",
+                "double"
+            ],
+            [
+                "days90_310L",
+                "double"
+            ],
+            [
+                "description_5085714M",
+                "string"
+            ],
+            [
+                "education_1103M",
+                "string"
+            ],
+            [
+                "education_88M",
+                "string"
+            ],
+            [
+                "firstquarter_103L",
+                "double"
+            ],
+            [
+                "for3years_128L",
+                "double"
+            ],
+            [
+                "for3years_504L",
+                "double"
+            ],
+            [
+                "for3years_584L",
+                "double"
+            ],
+            [
+                "formonth_118L",
+                "double"
+            ],
+            [
+                "formonth_206L",
+                "double"
+            ],
+            [
+                "formonth_535L",
+                "double"
+            ],
+            [
+                "forquarter_1017L",
+                "double"
+            ],
+            [
+                "forquarter_462L",
+                "double"
+            ],
+            [
+                "forquarter_634L",
+                "double"
+            ],
+            [
+                "fortoday_1092L",
+                "double"
+            ],
+            [
+                "forweek_1077L",
+                "double"
+            ],
+            [
+                "forweek_528L",
+                "double"
+            ],
+            [
+                "forweek_601L",
+                "double"
+            ],
+            [
+                "foryear_618L",
+                "double"
+            ],
+            [
+                "foryear_818L",
+                "double"
+            ],
+            [
+                "foryear_850L",
+                "double"
+            ],
+            [
+                "fourthquarter_440L",
+                "double"
+            ],
+            [
+                "maritalst_385M",
+                "string"
+            ],
+            [
+                "maritalst_893M",
+                "string"
+            ],
+            [
+                "numberofqueries_373L",
+                "double"
+            ],
+            [
+                "pmtaverage_3A",
+                "double"
+            ],
+            [
+                "pmtaverage_4527227A",
+                "double"
+            ],
+            [
+                "pmtaverage_4955615A",
+                "double"
+            ],
+            [
+                "pmtcount_4527229L",
+                "double"
+            ],
+            [
+                "pmtcount_4955617L",
+                "double"
+            ],
+            [
+                "pmtcount_693L",
+                "double"
+            ],
+            [
+                "pmtscount_423L",
+                "double"
+            ],
+            [
+                "pmtssum_45A",
+                "double"
+            ],
+            [
+                "requesttype_4525192L",
+                "int"
+            ],
+            [
+                "responsedate_1012D",
+                "double"
+            ],
+            [
+                "responsedate_4527233D",
+                "int"
+            ],
+            [
+                "responsedate_4917613D",
+                "string"
+            ],
+            [
+                "riskassesment_302T",
+                "int"
+            ],
+            [
+                "riskassesment_940T",
+                "double"
+            ],
+            [
+                "secondquarter_766L",
+                "double"
+            ],
+            [
+                "thirdquarter_1082L",
+                "double"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "assignmentdate_238D": "0",
+                "assignmentdate_4527235D": "0",
+                "assignmentdate_4955616D": "4",
+                "birthdate_574D": "0",
+                "contractssum_5085716L": "9",
+                "dateofbirth_337D": "10",
+                "dateofbirth_342D": "0",
+                "days120_123L": "10",
+                "days180_256L": "10",
+                "days30_165L": "10",
+                "days360_512L": "10",
+                "days90_310L": "10",
+                "description_5085714M": "10",
+                "education_1103M": "10",
+                "education_88M": "10",
+                "firstquarter_103L": "10",
+                "for3years_128L": "0",
+                "for3years_504L": "0",
+                "for3years_584L": "0",
+                "formonth_118L": "0",
+                "formonth_206L": "0",
+                "formonth_535L": "0",
+                "forquarter_1017L": "0",
+                "forquarter_462L": "0",
+                "forquarter_634L": "0",
+                "fortoday_1092L": "0",
+                "forweek_1077L": "0",
+                "forweek_528L": "0",
+                "forweek_601L": "0",
+                "foryear_618L": "0",
+                "foryear_818L": "0",
+                "foryear_850L": "0",
+                "fourthquarter_440L": "10",
+                "maritalst_385M": "10",
+                "maritalst_893M": "10",
+                "numberofqueries_373L": "10",
+                "pmtaverage_3A": "0",
+                "pmtaverage_4527227A": "0",
+                "pmtaverage_4955615A": "4",
+                "pmtcount_4527229L": "0",
+                "pmtcount_4955617L": "4",
+                "pmtcount_693L": "0",
+                "pmtscount_423L": "0",
+                "pmtssum_45A": "0",
+                "requesttype_4525192L": "0",
+                "responsedate_1012D": "0",
+                "responsedate_4527233D": "0",
+                "responsedate_4917613D": "10",
+                "riskassesment_302T": "0",
+                "riskassesment_940T": "0",
+                "secondquarter_766L": "10",
+                "thirdquarter_1082L": "10"
+            },
+            "mean": {
+                "case_id": "57592.4",
+                "assignmentdate_238D": null,
+                "assignmentdate_4527235D": null,
+                "assignmentdate_4955616D": null,
+                "birthdate_574D": null,
+                "contractssum_5085716L": "1419325.2555555555",
+                "dateofbirth_337D": null,
+                "dateofbirth_342D": null,
+                "days120_123L": "2.2",
+                "days180_256L": "3.1",
+                "days30_165L": "1.0",
+                "days360_512L": "5.4",
+                "days90_310L": "1.6",
+                "description_5085714M": null,
+                "education_1103M": null,
+                "education_88M": null,
+                "firstquarter_103L": "2.9",
+                "for3years_128L": null,
+                "for3years_504L": null,
+                "for3years_584L": null,
+                "formonth_118L": null,
+                "formonth_206L": null,
+                "formonth_535L": null,
+                "forquarter_1017L": null,
+                "forquarter_462L": null,
+                "forquarter_634L": null,
+                "fortoday_1092L": null,
+                "forweek_1077L": null,
+                "forweek_528L": null,
+                "forweek_601L": null,
+                "foryear_618L": null,
+                "foryear_818L": null,
+                "foryear_850L": null,
+                "fourthquarter_440L": "3.8",
+                "maritalst_385M": null,
+                "maritalst_893M": null,
+                "numberofqueries_373L": "5.4",
+                "pmtaverage_3A": null,
+                "pmtaverage_4527227A": null,
+                "pmtaverage_4955615A": "20848.3",
+                "pmtcount_4527229L": null,
+                "pmtcount_4955617L": "14.0",
+                "pmtcount_693L": null,
+                "pmtscount_423L": null,
+                "pmtssum_45A": null,
+                "requesttype_4525192L": null,
+                "responsedate_1012D": null,
+                "responsedate_4527233D": null,
+                "responsedate_4917613D": null,
+                "riskassesment_302T": null,
+                "riskassesment_940T": null,
+                "secondquarter_766L": "3.3",
+                "thirdquarter_1082L": "2.3"
+            },
+            "stddev": {
+                "case_id": "42.25373093322641",
+                "assignmentdate_238D": null,
+                "assignmentdate_4527235D": null,
+                "assignmentdate_4955616D": null,
+                "birthdate_574D": null,
+                "contractssum_5085716L": "2078247.9603415981",
+                "dateofbirth_337D": null,
+                "dateofbirth_342D": null,
+                "days120_123L": "1.7511900715418263",
+                "days180_256L": "2.378141197564929",
+                "days30_165L": "0.9428090415820634",
+                "days360_512L": "3.134042472944843",
+                "days90_310L": "1.577621275493231",
+                "description_5085714M": null,
+                "education_1103M": null,
+                "education_88M": null,
+                "firstquarter_103L": "2.5582111805799856",
+                "for3years_128L": null,
+                "for3years_504L": null,
+                "for3years_584L": null,
+                "formonth_118L": null,
+                "formonth_206L": null,
+                "formonth_535L": null,
+                "forquarter_1017L": null,
+                "forquarter_462L": null,
+                "forquarter_634L": null,
+                "fortoday_1092L": null,
+                "forweek_1077L": null,
+                "forweek_528L": null,
+                "forweek_601L": null,
+                "foryear_618L": null,
+                "foryear_818L": null,
+                "foryear_850L": null,
+                "fourthquarter_440L": "3.2249030993194197",
+                "maritalst_385M": null,
+                "maritalst_893M": null,
+                "numberofqueries_373L": "3.134042472944843",
+                "pmtaverage_3A": null,
+                "pmtaverage_4527227A": null,
+                "pmtaverage_4955615A": "5149.702452245823",
+                "pmtcount_4527229L": null,
+                "pmtcount_4955617L": "0.0",
+                "pmtcount_693L": null,
+                "pmtscount_423L": null,
+                "pmtssum_45A": null,
+                "requesttype_4525192L": null,
+                "responsedate_1012D": null,
+                "responsedate_4527233D": null,
+                "responsedate_4917613D": null,
+                "riskassesment_302T": null,
+                "riskassesment_940T": null,
+                "secondquarter_766L": "2.6687491868330793",
+                "thirdquarter_1082L": "1.636391694484477"
+            },
+            "min": {
+                "case_id": "57543",
+                "assignmentdate_238D": null,
+                "assignmentdate_4527235D": null,
+                "assignmentdate_4955616D": "2011-10-14",
+                "birthdate_574D": null,
+                "contractssum_5085716L": "15263.65",
+                "dateofbirth_337D": "1949-09-01",
+                "dateofbirth_342D": null,
+                "days120_123L": "0.0",
+                "days180_256L": "0.0",
+                "days30_165L": "0.0",
+                "days360_512L": "1.0",
+                "days90_310L": "0.0",
+                "description_5085714M": "2fc785b2",
+                "education_1103M": "39a0853f",
+                "education_88M": "a55475b1",
+                "firstquarter_103L": "0.0",
+                "for3years_128L": null,
+                "for3years_504L": null,
+                "for3years_584L": null,
+                "formonth_118L": null,
+                "formonth_206L": null,
+                "formonth_535L": null,
+                "forquarter_1017L": null,
+                "forquarter_462L": null,
+                "forquarter_634L": null,
+                "fortoday_1092L": null,
+                "forweek_1077L": null,
+                "forweek_528L": null,
+                "forweek_601L": null,
+                "foryear_618L": null,
+                "foryear_818L": null,
+                "foryear_850L": null,
+                "fourthquarter_440L": "0.0",
+                "maritalst_385M": "3439d993",
+                "maritalst_893M": "a55475b1",
+                "numberofqueries_373L": "1.0",
+                "pmtaverage_3A": null,
+                "pmtaverage_4527227A": null,
+                "pmtaverage_4955615A": "15841.2",
+                "pmtcount_4527229L": null,
+                "pmtcount_4955617L": "14.0",
+                "pmtcount_693L": null,
+                "pmtscount_423L": null,
+                "pmtssum_45A": null,
+                "requesttype_4525192L": null,
+                "responsedate_1012D": null,
+                "responsedate_4527233D": null,
+                "responsedate_4917613D": "2020-12-11",
+                "riskassesment_302T": null,
+                "riskassesment_940T": null,
+                "secondquarter_766L": "0.0",
+                "thirdquarter_1082L": "1.0"
+            },
+            "max": {
+                "case_id": "57634",
+                "assignmentdate_238D": null,
+                "assignmentdate_4527235D": null,
+                "assignmentdate_4955616D": "2018-11-18",
+                "birthdate_574D": null,
+                "contractssum_5085716L": "6373008.21",
+                "dateofbirth_337D": "1993-05-01",
+                "dateofbirth_342D": null,
+                "days120_123L": "6.0",
+                "days180_256L": "9.0",
+                "days30_165L": "3.0",
+                "days360_512L": "12.0",
+                "days90_310L": "4.0",
+                "description_5085714M": "2fc785b2",
+                "education_1103M": "a55475b1",
+                "education_88M": "a55475b1",
+                "firstquarter_103L": "9.0",
+                "for3years_128L": null,
+                "for3years_504L": null,
+                "for3years_584L": null,
+                "formonth_118L": null,
+                "formonth_206L": null,
+                "formonth_535L": null,
+                "forquarter_1017L": null,
+                "forquarter_462L": null,
+                "forquarter_634L": null,
+                "fortoday_1092L": null,
+                "forweek_1077L": null,
+                "forweek_528L": null,
+                "forweek_601L": null,
+                "foryear_618L": null,
+                "foryear_818L": null,
+                "foryear_850L": null,
+                "fourthquarter_440L": "9.0",
+                "maritalst_385M": "a7fcb6e5",
+                "maritalst_893M": "a55475b1",
+                "numberofqueries_373L": "12.0",
+                "pmtaverage_3A": null,
+                "pmtaverage_4527227A": null,
+                "pmtaverage_4955615A": "26815.6",
+                "pmtcount_4527229L": null,
+                "pmtcount_4955617L": "14.0",
+                "pmtcount_693L": null,
+                "pmtscount_423L": null,
+                "pmtssum_45A": null,
+                "requesttype_4525192L": null,
+                "responsedate_1012D": null,
+                "responsedate_4527233D": null,
+                "responsedate_4917613D": "2022-06-18",
+                "riskassesment_302T": null,
+                "riskassesment_940T": null,
+                "secondquarter_766L": "8.0",
+                "thirdquarter_1082L": "5.0"
+            }
+        },
+        "colunas_com_nulos": {
+            "assignmentdate_238D": 100.0,
+            "assignmentdate_4527235D": 100.0,
+            "assignmentdate_4955616D": 60.0,
+            "birthdate_574D": 100.0,
+            "contractssum_5085716L": 10.0,
+            "dateofbirth_342D": 100.0,
+            "for3years_128L": 100.0,
+            "for3years_504L": 100.0,
+            "for3years_584L": 100.0,
+            "formonth_118L": 100.0,
+            "formonth_206L": 100.0,
+            "formonth_535L": 100.0,
+            "forquarter_1017L": 100.0,
+            "forquarter_462L": 100.0,
+            "forquarter_634L": 100.0,
+            "fortoday_1092L": 100.0,
+            "forweek_1077L": 100.0,
+            "forweek_528L": 100.0,
+            "forweek_601L": 100.0,
+            "foryear_618L": 100.0,
+            "foryear_818L": 100.0,
+            "foryear_850L": 100.0,
+            "pmtaverage_3A": 100.0,
+            "pmtaverage_4527227A": 100.0,
+            "pmtaverage_4955615A": 60.0,
+            "pmtcount_4527229L": 100.0,
+            "pmtcount_4955617L": 60.0,
+            "pmtcount_693L": 100.0,
+            "pmtscount_423L": 100.0,
+            "pmtssum_45A": 100.0,
+            "requesttype_4525192L": 100.0,
+            "responsedate_1012D": 100.0,
+            "responsedate_4527233D": 100.0,
+            "riskassesment_302T": 100.0,
+            "riskassesment_940T": 100.0
+        },
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "válida"
+        }
+    },
+    "test_tax_registry_a_1": {
+        "tabela": "test_tax_registry_a_1",
+        "total_registros": 10,
+        "total_colunas": 5,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "amount_4527230A",
+                "double"
+            ],
+            [
+                "name_4527232M",
+                "string"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ],
+            [
+                "recorddate_4527225D",
+                "string"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "amount_4527230A": "10",
+                "name_4527232M": "10",
+                "num_group1": "10",
+                "recorddate_4527225D": "10"
+            },
+            "mean": {
+                "case_id": "57706.6",
+                "amount_4527230A": "3299.98003",
+                "name_4527232M": null,
+                "num_group1": "2.9",
+                "recorddate_4527225D": null
+            },
+            "stddev": {
+                "case_id": "40.79542458005064",
+                "amount_4527230A": "964.9168929724283",
+                "name_4527232M": null,
+                "num_group1": "2.1317702607092643",
+                "recorddate_4527225D": null
+            },
+            "min": {
+                "case_id": "57675",
+                "amount_4527230A": "2134.0",
+                "name_4527232M": "31b75bd0",
+                "num_group1": "0",
+                "recorddate_4527225D": "2022-01-07"
+            },
+            "max": {
+                "case_id": "57754",
+                "amount_4527230A": "5061.8003",
+                "name_4527232M": "ff9eb829",
+                "num_group1": "7",
+                "recorddate_4527225D": "2022-06-16"
+            }
+        },
+        "colunas_com_nulos": {},
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    },
+    "test_tax_registry_b_1": {
+        "tabela": "test_tax_registry_b_1",
+        "total_registros": 10,
+        "total_colunas": 5,
+        "schema": [
+            [
+                "case_id",
+                "bigint"
+            ],
+            [
+                "amount_4917619A",
+                "double"
+            ],
+            [
+                "deductiondate_4917603D",
+                "string"
+            ],
+            [
+                "name_4917606M",
+                "string"
+            ],
+            [
+                "num_group1",
+                "bigint"
+            ]
+        ],
+        "describe": {
+            "count": {
+                "case_id": "10",
+                "amount_4917619A": "10",
+                "deductiondate_4917603D": "10",
+                "name_4917606M": "10",
+                "num_group1": "10"
+            },
+            "mean": {
+                "case_id": "57546.2",
+                "amount_4917619A": "18695.299999999996",
+                "deductiondate_4917603D": null,
+                "name_4917606M": null,
+                "num_group1": "2.7"
+            },
+            "stddev": {
+                "case_id": "4.131182235955227",
+                "amount_4917619A": "9021.408186826118",
+                "deductiondate_4917603D": null,
+                "name_4917606M": null,
+                "num_group1": "2.057506581601462"
+            },
+            "min": {
+                "case_id": "57543",
+                "amount_4917619A": "3585.0",
+                "deductiondate_4917603D": "2020-06-26",
+                "name_4917606M": "787c689d",
+                "num_group1": "0"
+            },
+            "max": {
+                "case_id": "57551",
+                "amount_4917619A": "27191.8",
+                "deductiondate_4917603D": "2021-05-19",
+                "name_4917606M": "d580dfef",
+                "num_group1": "6"
+            }
+        },
+        "colunas_com_nulos": {},
+        "chave_primaria": {
+            "coluna": "case_id",
+            "status": "inválida"
+        }
+    }
+}

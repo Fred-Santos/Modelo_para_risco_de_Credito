@@ -1,0 +1,5 @@
+﻿coluna,tipo,% nulos,qtd_nulos,valores_distintos,exemplo_valores,observacoes
+case_id,bigint,0.0,0,10,"[57543, 57549, 57569]",
+date_decision,string,0.0,0,9,"['2022-01-17', '2022-06-04', '2021-03-16']",
+MONTH,bigint,0.0,0,1,[202201],
+WEEK_NUM,bigint,0.0,0,1,[100],
